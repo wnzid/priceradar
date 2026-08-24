@@ -1,7 +1,8 @@
 export const siteConfig={
   siteName:"PriceRadar",
   operatorName:"PriceRadar",
-  contactEmail:import.meta.env.VITE_PUBLIC_CONTACT_EMAIL?.trim()||undefined,
+  contactEmail:"anthone2548@gmail.com",
+  githubUrl:"https://github.com/wnzid/",
   legalLastUpdated:"24 August 2026",
   privacyLastUpdated:"24 August 2026",
 } as const;
