@@ -1,0 +1,3 @@
+import {describe,expect,it} from "vitest";import {meaningfulStoreJson,validateStoreData} from "../scripts/write-data.js";import type {StoreData} from "../scripts/types.js";
+const data=(count:number,time="a"):StoreData=>({store:"rimi",collectedAt:time,source:"x",offers:Array.from({length:count},(_,i)=>({externalId:String(i),name:`Offer ${i}`,salePrice:i+1,sourceUrl:"x"}))});
+describe("write safety",()=>{it("rejects zero and suspicious drops",()=>{expect(()=>validateStoreData(data(0),data(184))).toThrow(/zero/);expect(()=>validateStoreData(data(12),data(184))).toThrow(/suspicious/)});it("ignores volatile timestamps",()=>expect(meaningfulStoreJson(data(2,"old"))).toBe(meaningfulStoreJson(data(2,"new"))))});

@@ -1,0 +1,4 @@
+import {describe,expect,it} from "vitest";import {groupingMetrics} from "../scripts/normalization/audit-metrics.js";import type {Deal,Store} from "../scripts/types.js";
+const offer=(store:Store)=>({store,name:"x",sourceName:"x",displayName:"X",displayNameSource:"CANONICAL" as const,salePrice:1,sourceUrl:"x"}),deal=(id:string,stores:Store[]):Deal=>({id,name:id,category:"Other",aliases:[],offers:stores.map(offer)});
+describe("grouping audit metrics",()=>{it("counts the active Rimi-Maxima pair",()=>expect(groupingMetrics([deal("one",["rimi"]),deal("both",["rimi","maxima"])] )).toEqual({singleStore:1,twoStore:1,crossStoreGroups:1,rimiMaxima:1}))});
+describe("active store boundary",()=>{it("cannot include Lidl",()=>{type LidlIsActive="lidl" extends Store?true:false;const lidlIsActive:LidlIsActive=false;expect(lidlIsActive).toBe(false)})});

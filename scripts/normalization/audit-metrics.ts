@@ -1,0 +1,3 @@
+import type {Deal,Store} from "../types.js";
+export interface GroupingMetrics{singleStore:number;twoStore:number;crossStoreGroups:number;rimiMaxima:number}
+export function groupingMetrics(deals:Deal[]):GroupingMetrics{const sets=deals.map(deal=>new Set<Store>(deal.offers.map(offer=>offer.store))),has=(stores:Set<Store>,a:Store,b:Store)=>stores.has(a)&&stores.has(b);return{singleStore:sets.filter(stores=>stores.size===1).length,twoStore:sets.filter(stores=>stores.size===2).length,crossStoreGroups:sets.filter(stores=>stores.size>1).length,rimiMaxima:sets.filter(stores=>has(stores,"rimi","maxima")).length}}

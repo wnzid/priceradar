@@ -1,0 +1,3 @@
+import {expect,it} from "vitest";import {parseQuantity,unitPrice} from "../scripts/normalization/normalize-units.js";
+it("normalizes multipack quantities before unit pricing",()=>{const quantity=parseQuantity("Grikių kruopos 8 x 100 g");expect(quantity).toMatchObject({quantity:800,unit:"g",baseQuantity:.8,type:"kg"});expect(unitPrice(1.79,quantity)).toBe(2.24)});
+it("recognizes roll counts and ignores optional bulk-sale notes",()=>{expect(parseQuantity("1 pak. (16 rit.)")).toMatchObject({quantity:16,unit:"pcs",baseQuantity:16,type:"piece"});expect(parseQuantity("Šviežios bulvės Parduodamos ir 15 kg maišais")).toBeUndefined()});

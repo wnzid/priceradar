@@ -1,26 +1,45 @@
 {
   "name": "priceradar",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
+  "type": "module",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "eslint"
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "lint": "eslint .",
+    "typecheck": "tsc -b --pretty false",
+    "test": "vitest run",
+    "collect": "tsx scripts/collect.ts",
+    "collect:rimi": "tsx scripts/collect.ts rimi",
+    "collect:maxima": "tsx scripts/collect.ts maxima",
+    "collect:barbora": "tsx scripts/collect.ts barbora",
+    "build:data": "tsx scripts/build-deals.ts",
+    "audit:normalization": "tsx scripts/audit-normalization.ts",
+    "audit:deals": "tsx scripts/audit-deals.ts"
   },
   "dependencies": {
-    "next": "16.3.2",
+    "@vitejs/plugin-react": "latest",
+    "cheerio": "^1.1.2",
     "react": "19.2.8",
-    "react-dom": "19.2.8"
+    "react-dom": "19.2.8",
+    "react-router-dom": "^7.8.0",
+    "vite": "latest"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4",
+    "@eslint/js": "^9.34.0",
+    "@tailwindcss/vite": "^4.1.0",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
-    "eslint-config-next": "16.3.2",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.20",
+    "globals": "^16.3.0",
     "tailwindcss": "^4",
-    "typescript": "^5"
+    "tsx": "^4.20.0",
+    "typescript": "^5",
+    "typescript-eslint": "^8.40.0",
+    "vitest": "^3.2.0"
   }
 }

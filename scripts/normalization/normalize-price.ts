@@ -1,0 +1,2 @@
+export function parsePrice(value?: string | number): number | undefined { if (typeof value === "number") return Number.isFinite(value) ? value : undefined; if (!value) return undefined; const n = Number(value.replace(/\s/g, "").replace(",", ".").replace(/[^\d.-]/g, "")); return Number.isFinite(n) ? n : undefined; }
+export function discount(sale?: number, regular?: number): number | undefined { return sale != null && regular && regular > sale ? Math.round((1 - sale / regular) * 100) : undefined; }

@@ -1,0 +1,17 @@
+import {cp} from "node:fs/promises";
+import tailwindcss from "@tailwindcss/vite";
+import react from "@vitejs/plugin-react";
+import {defineConfig, type Plugin} from "vite";
+
+const copyData = (): Plugin => ({
+  name: "copy-deal-data",
+  async closeBundle() {
+    await cp("data/current", "dist/data/current", {recursive: true});
+  },
+});
+
+export default defineConfig({
+  base: process.env.VITE_BASE_PATH ?? "/priceradar/",
+  plugins: [react(), tailwindcss(), copyData()],
+  publicDir: "public",
+});

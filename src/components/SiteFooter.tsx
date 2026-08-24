@@ -1,0 +1,4 @@
+import {Link} from "react-router-dom";
+import {siteConfig} from "../config/site.js";
+
+export function SiteFooter(){return <footer className="site-footer"><div className="footer-summary"><strong>{siteConfig.siteName}</strong><p>Compare grocery promotions from supported Lithuanian retailers.</p></div><nav aria-label="Legal and information"><Link to="/legal">Legal &amp; Disclaimer</Link><Link to="/privacy">Privacy</Link><Link to="/contact">Contact</Link></nav><div className="footer-disclaimer"><p>{siteConfig.siteName} is an independent price-comparison service and is not affiliated with or endorsed by Rimi, Maxima, or other listed retailers.</p><p>Prices and promotions may change. Always verify the current price and availability with the retailer.</p></div><small>© 2026 {siteConfig.siteName}</small></footer>}
