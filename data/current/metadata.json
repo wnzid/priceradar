@@ -1,0 +1,36 @@
+{
+  "generatedAt": "2026-08-24T16:53:32.616Z",
+  "stores": {
+    "rimi": {
+      "status": "success",
+      "offers": 206
+    },
+    "maxima": {
+      "status": "success",
+      "offers": 125
+    }
+  },
+  "totalOffers": 331,
+  "normalizedProducts": 311,
+  "translation": {
+    "totalOffers": 331,
+    "canonical": 40,
+    "automatic": 113,
+    "untranslated": 178,
+    "englishCoveragePercent": 46.2
+  },
+  "exclusions": {
+    "pork": {
+      "total": 11,
+      "rimi": 9,
+      "maxima": 2,
+      "breakdown": {
+        "rimiLeaflet": 4,
+        "rimiEshop": 4,
+        "maximaStructured": 2,
+        "maximaLeaflet": 0,
+        "pipeline": 1
+      }
+    }
+  }
+}
