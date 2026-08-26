@@ -1,6 +1,6 @@
 {
   "store": "maxima",
-  "collectedAt": "2026-08-25T07:14:37.673Z",
+  "collectedAt": "2026-08-26T19:23:27.390Z",
   "source": "https://www.maxima.lt/pasiulymai",
   "offers": [
     {
@@ -1613,7 +1613,7 @@
       "pricePerUnit": 3.74,
       "pricePerUnitType": "l",
       "validUntil": "2026-09-14",
-      "imageUrl": "https://offers.maxima.lt/media/MarketingOffer/6a82fa1c9d242.png",
+      "imageUrl": "https://offers.maxima.lt/media/MarketingOffer/6a8ecab6e6584.png",
       "sourceUrl": "https://www.maxima.lt/webservices/marketing-offers/general/9a1d07dc-a87b-4ef7-b9a4-80307b43e48f?locale=lt",
       "category": "Drinks",
       "sourceCategory": "Gėrimai",
@@ -1648,16 +1648,16 @@
     {
       "externalId": "f55acdd5-c4c4-42f2-ae6c-3e59d409dbee",
       "name": "Nealkoholinis sidras SOMERSBY, 2 rūšių, 500 ml",
-      "salePrice": 0.99,
-      "loyaltyPrice": 0.99,
+      "salePrice": 0.98,
+      "loyaltyPrice": 0.98,
       "regularPrice": 1.99,
       "discountPercent": 50,
       "quantity": 500,
       "unit": "ml",
-      "pricePerUnit": 1.98,
+      "pricePerUnit": 1.96,
       "pricePerUnitType": "l",
       "validUntil": "2026-08-31",
-      "imageUrl": "https://offers.maxima.lt/media/MarketingOffer/6a8c57c896f88.png",
+      "imageUrl": "https://offers.maxima.lt/media/MarketingOffer/6a8ecab72ff52.png",
       "sourceUrl": "https://www.maxima.lt/webservices/marketing-offers/general/f55acdd5-c4c4-42f2-ae6c-3e59d409dbee?locale=lt",
       "category": "Drinks",
       "sourceCategory": "Gėrimai",
