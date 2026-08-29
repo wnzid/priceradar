@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T18:47:12.992Z",
+  "generatedAt": "2026-08-29T12:45:12.964Z",
   "all": [
     {
       "rank": 1,
@@ -990,6 +990,29 @@
     },
     {
       "rank": 44,
+      "dealId": "unmatched-rukyti-sprotai-aliejuje-rimi-100g-70g",
+      "product": "Rūkyti šprotai aliejuje RIMI 100G/70G",
+      "category": "Other",
+      "store": "rimi",
+      "sourceName": "Rūkyti šprotai aliejuje RIMI 100G/70G",
+      "salePrice": 1.69,
+      "regularPrice": 2.39,
+      "pricePerUnit": 16.9,
+      "pricePerUnitType": "kg",
+      "discountPercent": 29,
+      "validUntil": "2026-08-31",
+      "sourceUrl": "https://www.rimi.lt/e-parduotuve/lt/produktai/mesa-ir-zuvis-/apdorotos-zuvies-gaminiai/konservuota-zuvis-ir-juros-gerybes/rukyti-sprotai-aliejuje-rimi-100g-70g/p/815612",
+      "promotionType": "SALE",
+      "dealScore": 80.1,
+      "reasons": [
+        "GOOD_DISCOUNT",
+        "LOWEST_OBSERVED_PRICE",
+        "STRONG_UNIT_PRICE"
+      ],
+      "historicalStatus": "LOWEST_OBSERVED"
+    },
+    {
+      "rank": 45,
       "dealId": "unmatched-kukuruzu-spragesiai-su-druska-estrella-90g",
       "product": "Kukurūzų spragėsiai su druska, ESTRELLA, 90g",
       "category": "Other",
@@ -1012,7 +1035,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 45,
+      "rank": 46,
       "dealId": "unmatched-at-virt-bl-krevetes-rimi-40-60-1-kg",
       "product": "At. virt. bl. krevetės RIMI, 40/60, 1 kg",
       "category": "Other",
@@ -1034,7 +1057,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 46,
+      "rank": 47,
       "dealId": "unmatched-virta-visc-pusele-su-cesnaku-vp-a-r-1-kg",
       "product": "Virta višč. puselė su česnaku VP, a. r., 1 kg",
       "category": "Other",
@@ -1056,7 +1079,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 47,
+      "rank": 48,
       "dealId": "nectarines",
       "product": "Nectarines",
       "category": "Fruit & Vegetables",
@@ -1078,7 +1101,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 48,
+      "rank": 49,
       "dealId": "nectarines",
       "product": "Nectarines",
       "category": "Fruit & Vegetables",
@@ -1100,7 +1123,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 49,
+      "rank": 50,
       "dealId": "unmatched-puskietis-suris-dvaro-50-rieb-240-g",
       "product": "Puskietis sūris DVARO, 50 % rieb., 240 g",
       "category": "Other",
@@ -1123,7 +1146,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 50,
+      "rank": 51,
       "dealId": "unmatched-vaisiu-skonio-zele-jelly-1kg",
       "product": "Fruit Jelly Candy",
       "category": "Snacks",
@@ -1145,7 +1168,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 51,
+      "rank": 52,
       "dealId": "unmatched-at-virt-bl-krevetes-rimi-60-80-1-kg",
       "product": "At. virt. bl. krevetės RIMI, 60/80, 1 kg",
       "category": "Other",
@@ -1167,7 +1190,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 52,
+      "rank": 53,
       "dealId": "unmatched-mocarelos-suris-formagia-125g",
       "product": "Mocarelos sūris FORMAGIA 125g",
       "category": "Other",
@@ -1190,7 +1213,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 53,
+      "rank": 54,
       "dealId": "unmatched-dvaro-grietine-40-rieb-380-g",
       "product": "DVARO grietinė, 40 % rieb., 380 g",
       "category": "Other",
@@ -1213,7 +1236,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 54,
+      "rank": 55,
       "dealId": "unmatched-gazuotas-gaivusis-gerimas-coca-cola-coca-cola-zero-2-rusiu-2-l",
       "product": "Gazuotas gaivusis gėrimas COCA-COLA; COCA-COLA ZERO, 2 rūšių, 2 l",
       "category": "Drinks",
@@ -1236,7 +1259,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 55,
+      "rank": 56,
       "dealId": "unmatched-tamsios-slyvos-35-mm-1-kl-1-kg",
       "product": "Tamsios slyvos, 35+ mm, 1 kl., 1 kg",
       "category": "Other",
@@ -1258,7 +1281,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 56,
+      "rank": 57,
       "dealId": "white-mushrooms",
       "product": "White Mushrooms",
       "category": "Fruit & Vegetables",
@@ -1280,7 +1303,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 57,
+      "rank": 58,
       "dealId": "unmatched-varskes-sausainiai-1-kg",
       "product": "Varškės sausainiai, 1 kg",
       "category": "Other",
@@ -1302,7 +1325,29 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 58,
+      "rank": 59,
+      "dealId": "unmatched-atit-jurinis-eserys-rimi-skr-1kg",
+      "product": "Atit. jūrinis ešerys RIMI, skr., 1kg",
+      "category": "Other",
+      "store": "rimi",
+      "sourceName": "Atit. jūrinis ešerys RIMI, skr., 1kg",
+      "salePrice": 6.99,
+      "regularPrice": 9.99,
+      "pricePerUnit": 6.99,
+      "pricePerUnitType": "kg",
+      "discountPercent": 30,
+      "sourceUrl": "https://www.rimi.lt/e-parduotuve/lt/produktai/mesa-ir-zuvis-/sviezios-zuvys-ir-juru-gerybes/visa-zuvis/atit-jurinis-eserys-rimi-skr-1kg/p/812942",
+      "promotionType": "SALE",
+      "dealScore": 77.1,
+      "reasons": [
+        "GOOD_DISCOUNT",
+        "LOWEST_OBSERVED_PRICE",
+        "STRONG_UNIT_PRICE"
+      ],
+      "historicalStatus": "LOWEST_OBSERVED"
+    },
+    {
+      "rank": 60,
       "dealId": "unmatched-karst-ruk-kalakuto-krutin-pipirine-a-r-1kg",
       "product": "Karšt.rūk.kalakuto krūtin. PIPIRINĖ,a.r., 1kg",
       "category": "Other",
@@ -1324,7 +1369,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 59,
+      "rank": 61,
       "dealId": "unmatched-plautos-morkos-kg",
       "product": "Plautos morkos, kg",
       "category": "Other",
@@ -1346,28 +1391,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 60,
-      "dealId": "unmatched-abrikosai-40-50-mm-1-kl-1-kg",
-      "product": "Abrikosai 40-50+ mm, 1 kl., 1 kg",
-      "category": "Other",
-      "store": "rimi",
-      "sourceName": "Abrikosai 40-50+ mm, 1 kl., 1 kg",
-      "salePrice": 1.99,
-      "regularPrice": 2.99,
-      "pricePerUnit": 1.99,
-      "pricePerUnitType": "kg",
-      "discountPercent": 33,
-      "sourceUrl": "https://www.rimi.lt/e-parduotuve/lt/produktai/vaisiai-darzoves-ir-geles/vaisiai-ir-uogos/kaulavaisiai/abrikosai-40-50-mm-1-kl-1-kg/p/965073",
-      "promotionType": "SALE",
-      "dealScore": 76.3,
-      "reasons": [
-        "GOOD_DISCOUNT",
-        "LOWEST_OBSERVED_PRICE"
-      ],
-      "historicalStatus": "LOWEST_OBSERVED"
-    },
-    {
-      "rank": 61,
+      "rank": 62,
       "dealId": "unmatched-zaliosios-cukinijos-kg",
       "product": "Žaliosios cukinijos, kg",
       "category": "Other",
@@ -1389,7 +1413,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 62,
+      "rank": 63,
       "dealId": "unmatched-raudonuju-lasisu-ikrai-alaska-seafood-95-g",
       "product": "Raudonųjų lašišų ikrai ALASKA SEAFOOD, 95 g",
       "category": "Fish & Seafood",
@@ -1412,7 +1436,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 63,
+      "rank": 64,
       "dealId": "unmatched-mazas-sviestinis-mociutes-sakotis-1-kg",
       "product": "Mažas sviestinis MOČIUTĖS šakotis, 1 kg",
       "category": "Other",
@@ -1434,7 +1458,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 64,
+      "rank": 65,
       "dealId": "unmatched-saldainiai-korivka-1kg",
       "product": "KORIVKA Candy",
       "category": "Snacks",
@@ -1456,7 +1480,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 65,
+      "rank": 66,
       "dealId": "unmatched-karstai-rukyta-kalakutu-krutinele-arvi-a-1kg",
       "product": "ARVI Hot-Smoked Breast",
       "category": "Other",
@@ -1478,7 +1502,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 66,
+      "rank": 67,
       "dealId": "unmatched-atitirp-mini-eklerai-su-varskes-idaru-200-g",
       "product": "Atitirp. mini eklerai su varškės įdaru, 200 g",
       "category": "Other",
@@ -1501,7 +1525,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 67,
+      "rank": 68,
       "dealId": "unmatched-tortas-ambasadorius-vidutinis-1-kg",
       "product": "Tortas Ambasadorius (vidutinis), 1 kg",
       "category": "Other",
@@ -1523,7 +1547,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 68,
+      "rank": 69,
       "dealId": "green-grapes",
       "product": "Seedless Green Grapes",
       "category": "Fruit & Vegetables",
@@ -1546,7 +1570,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 69,
+      "rank": 70,
       "dealId": "unmatched-pusryciu-batonas-lietuvos-kepejas-500-g",
       "product": "PUSRYČIŲ batonas LIETUVOS KEPĖJAS, 500 g",
       "category": "Other",
@@ -1568,7 +1592,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 70,
+      "rank": 71,
       "dealId": "unmatched-melynosios-slyvos-lepotica-1-kg",
       "product": "Mėlynosios slyvos LEPOTICA, 1 kg",
       "category": "Fruit & Vegetables",
@@ -1591,7 +1615,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 71,
+      "rank": 72,
       "dealId": "unmatched-saldus-kukuruzai-rimi-340g-285g",
       "product": "Saldūs kukurūzai RIMI, 340g/285g",
       "category": "Other",
@@ -1613,7 +1637,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 72,
+      "rank": 73,
       "dealId": "unmatched-raud-saldziosios-paprikos-80-1kl-1kg",
       "product": "Raud. saldžiosios paprikos (80+),1kl,1kg",
       "category": "Other",
@@ -1635,7 +1659,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 73,
+      "rank": 74,
       "dealId": "unmatched-sviezios-skrostos-atlantines-lasisos-su-galvomis-1-kg",
       "product": "Šviežios skrostos atlantinės lašišos su galvomis, 1 kg",
       "category": "Fish & Seafood",
@@ -1659,7 +1683,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 74,
+      "rank": 75,
       "dealId": "unmatched-zaliosios-lapines-salotos-rimi-1vnt",
       "product": "Žaliosios lapinės salotos RIMI, 1vnt",
       "category": "Other",
@@ -1681,7 +1705,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 75,
+      "rank": 76,
       "dealId": "unmatched-dantu-pasta-lebon-75-ml",
       "product": "Dantų pasta LEBON, 75 ml",
       "category": "Other",
@@ -1704,7 +1728,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 76,
+      "rank": 77,
       "dealId": "unmatched-gazuotas-nat-mineralinis-vanduo-vytautas-1l",
       "product": "VYTAUTAS Carbonated Mineral Water",
       "category": "Other",
@@ -1726,7 +1750,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 77,
+      "rank": 78,
       "dealId": "unmatched-paklotai-seni-soft-1-pak-30-vnt",
       "product": "Paklotai SENI SOFT, 1 pak. (30 vnt.)",
       "category": "Other",
@@ -1749,7 +1773,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 78,
+      "rank": 79,
       "dealId": "unmatched-prezervatyvai-life-styles-ultra-thin-1-dez-16-vnt",
       "product": "Prezervatyvai LIFE STYLES ULTRA THIN, 1 dėž. (16 vnt.)",
       "category": "Personal Care",
@@ -1772,7 +1796,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 79,
+      "rank": 80,
       "dealId": "unmatched-citrinos-1-kg",
       "product": "Citrinos, 1 kg",
       "category": "Fruit & Vegetables",
@@ -1795,7 +1819,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 80,
+      "rank": 81,
       "dealId": "quark-9",
       "product": "Quark, 9% Fat",
       "category": "Dairy & Eggs",
@@ -1818,7 +1842,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 81,
+      "rank": 82,
       "dealId": "unmatched-paruk-kalakuto-krutinele-arvi-kalakutai-1kg",
       "product": "Parūk. kalakuto krūtinėlė ARVI KALAKUTAI, 1kg",
       "category": "Other",
@@ -1839,7 +1863,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 82,
+      "rank": 83,
       "dealId": "unmatched-energinis-gerimas-brite-3-rusiu-330-ml",
       "product": "BRITE Energy Drink",
       "category": "Drinks",
@@ -1862,7 +1886,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 83,
+      "rank": 84,
       "dealId": "unmatched-obuoliai-magic-star-1kl-kg",
       "product": "Obuoliai MAGIC STAR, 1kl, kg",
       "category": "Other",
@@ -1884,7 +1908,7 @@
       "historicalStatus": "NEAR_LOWEST"
     },
     {
-      "rank": 84,
+      "rank": 85,
       "dealId": "unmatched-salotos-vazonelyje-lollo-biondo-1-vnt",
       "product": "Salotos vazonėlyje LOLLO BIONDO, 1 vnt.",
       "category": "Fruit & Vegetables",
@@ -1907,7 +1931,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 85,
+      "rank": 86,
       "dealId": "unmatched-krekeriai-su-trumais-scrocchi-laurieri-175-g",
       "product": "Krekeriai su trumais SCROCCHI LAURIERI, 175 g",
       "category": "Other",
@@ -1929,7 +1953,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 86,
+      "rank": 87,
       "dealId": "unmatched-dezodorantai-dove-200-ml",
       "product": "Dezodorantai DOVE, 200 ml",
       "category": "Other",
@@ -1952,7 +1976,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 87,
+      "rank": 88,
       "dealId": "unmatched-zemes-riesutai-estrella-3-rusiu-140-g",
       "product": "Žemės riešutai ESTRELLA, 3 rūšių, 140 g",
       "category": "Pantry",
@@ -1975,7 +1999,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 88,
+      "rank": 89,
       "dealId": "unmatched-tualeto-valiklis-gaiviklis-bref-power-aktiv-6-x-50-g",
       "product": "Tualeto valiklis gaiviklis BREF POWER AKTIV, 6 x 50 g",
       "category": "Other",
@@ -1998,7 +2022,29 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 89,
+      "rank": 90,
+      "dealId": "unmatched-vistienos-nuggets-su-saldziar-padazu-200g",
+      "product": "Vištienos NUGGETS su saldžiar.padažu, 200g",
+      "category": "Other",
+      "store": "rimi",
+      "sourceName": "Vištienos NUGGETS su saldžiar.padažu, 200g",
+      "salePrice": 2.79,
+      "regularPrice": 3.49,
+      "pricePerUnit": 13.95,
+      "pricePerUnitType": "kg",
+      "discountPercent": 20,
+      "validUntil": "2026-08-31",
+      "sourceUrl": "https://www.rimi.lt/e-parduotuve/lt/produktai/rimi-konditerija-ir-kulinarija/paruostas-maistas-kulinarija/uzkandziai/vistienos-nuggets-su-saldziar-padazu-200g/p/4011654",
+      "promotionType": "SALE",
+      "dealScore": 66.5,
+      "reasons": [
+        "LOWEST_OBSERVED_PRICE",
+        "STRONG_UNIT_PRICE"
+      ],
+      "historicalStatus": "LOWEST_OBSERVED"
+    },
+    {
+      "rank": 91,
       "dealId": "short-cucumbers",
       "product": "Short Cucumbers",
       "category": "Fruit & Vegetables",
@@ -2020,7 +2066,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 90,
+      "rank": 92,
       "dealId": "quark-9",
       "product": "Quark, 9% Fat",
       "category": "Dairy & Eggs",
@@ -2041,7 +2087,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 91,
+      "rank": 93,
       "dealId": "unmatched-valgomieji-ledai-indelyje-dadu-3-rusiu-310-325-g",
       "product": "Valgomieji ledai indelyje DADU, 3 rūšių, 310–325 g",
       "category": "Frozen",
@@ -2064,7 +2110,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 92,
+      "rank": 94,
       "dealId": "unmatched-originalusis-kecupas-heinz-570-g",
       "product": "ORIGINALUSIS kečupas HEINZ, 570 g",
       "category": "Pantry",
@@ -2086,7 +2132,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 93,
+      "rank": 95,
       "dealId": "short-cucumbers",
       "product": "Short Cucumbers",
       "category": "Fruit & Vegetables",
@@ -2108,7 +2154,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 94,
+      "rank": 96,
       "dealId": "unmatched-granatu-sultys-granda-1-l",
       "product": "GRANDA Pomegranate Juice",
       "category": "Drinks",
@@ -2130,7 +2176,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 95,
+      "rank": 97,
       "dealId": "unmatched-gaivusis-gerimas-chupa-chups-2-rusiu-345-ml",
       "product": "CHUPA CHUPS Soft Drink",
       "category": "Drinks",
@@ -2152,7 +2198,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 96,
+      "rank": 98,
       "dealId": "unmatched-glaistytos-kukuruzu-lazdeles-aha-vaniles-skonio-250-g",
       "product": "AHA Sticks Vanilla",
       "category": "Snacks",
@@ -2175,7 +2221,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 97,
+      "rank": 99,
       "dealId": "unmatched-varskes-zagareliai-1kg",
       "product": "Varškės žagarėliai, 1kg",
       "category": "Other",
@@ -2196,7 +2242,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 98,
+      "rank": 100,
       "dealId": "unmatched-darzoviu-sal-su-saldziarugsciu-padazu-200g",
       "product": "Daržovių sal. su saldžiarūgščiu padažu, 200g",
       "category": "Other",
@@ -2217,7 +2263,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 99,
+      "rank": 101,
       "dealId": "unmatched-zefyrai-laima-3-rusiu-200-g",
       "product": "Zefyrai LAIMA, 3 rūšių, 200 g",
       "category": "Snacks",
@@ -2240,7 +2286,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 100,
+      "rank": 102,
       "dealId": "unmatched-kukuruzu-burbuole-1-vnt",
       "product": "Kukurūzų burbuolė, 1 vnt.",
       "category": "Fruit & Vegetables",
@@ -2263,7 +2309,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 101,
+      "rank": 103,
       "dealId": "unmatched-karstai-rukytas-giminiu-servelatas-utenos-mesa-a-r-200-g",
       "product": "Karštai rūkytas GIMINIŲ servelatas UTENOS MĖSA, a. r., 200 g",
       "category": "Meat",
@@ -2286,7 +2332,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 102,
+      "rank": 104,
       "dealId": "unmatched-tirpios-kavos-gerimas-maiselyje-nescafe-3in1-classic-30x15-5-g",
       "product": "Tirpios kavos gėrimas maišelyje NESCAFE 3in1 CLASSIC, 30x15,5 g",
       "category": "Other",
@@ -2309,7 +2355,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 103,
+      "rank": 105,
       "dealId": "unmatched-zuvies-pirsteliai-esva-450-g",
       "product": "Žuvies piršteliai ESVA, 450 g",
       "category": "Other",
@@ -2330,7 +2376,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 104,
+      "rank": 106,
       "dealId": "unmatched-sokoladas-milka-250-300-g",
       "product": "Šokoladas MILKA, 250-300 g",
       "category": "Other",
@@ -2353,7 +2399,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 105,
+      "rank": 107,
       "dealId": "chicken-breast",
       "product": "Chicken Breast",
       "category": "Meat",
@@ -2376,7 +2422,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 106,
+      "rank": 108,
       "dealId": "unmatched-zemaitijos-kefyro-kokteilis-0-4-0-5-rieb-450-g",
       "product": "ŽEMAITIJOS kefyro kokteilis, 0,4–0,5 % rieb., 450 g",
       "category": "Dairy & Eggs",
@@ -2398,7 +2444,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 107,
+      "rank": 109,
       "dealId": "unmatched-kojines-adidas-6-rusys",
       "product": "Kojinės ADIDAS (6 rūšys)",
       "category": "Other",
@@ -2418,7 +2464,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 108,
+      "rank": 110,
       "dealId": "quark-9",
       "product": "Quark, 9% Fat",
       "category": "Dairy & Eggs",
@@ -2440,7 +2486,28 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 109,
+      "rank": 111,
+      "dealId": "unmatched-kavos-kapsules-lor-mattinata-10-vnt-52-g",
+      "product": "Kavos kapsulės LOR MATTINATA, 10 vnt. 52 g",
+      "category": "Other",
+      "store": "rimi",
+      "sourceName": "Kavos kapsulės LOR MATTINATA, 10 vnt. 52 g",
+      "salePrice": 3.79,
+      "regularPrice": 4.99,
+      "pricePerUnit": 0.38,
+      "pricePerUnitType": "piece",
+      "discountPercent": 24,
+      "validUntil": "2026-08-31",
+      "sourceUrl": "https://www.rimi.lt/e-parduotuve/lt/produktai/bakaleja/kava-ir-kakava/kavos-kapsules/kavos-kapsules-lor-mattinata-10-vnt-52-g/p/186428",
+      "promotionType": "SALE",
+      "dealScore": 62.7,
+      "reasons": [
+        "LOWEST_OBSERVED_PRICE"
+      ],
+      "historicalStatus": "LOWEST_OBSERVED"
+    },
+    {
+      "rank": 112,
       "dealId": "unmatched-bulviu-traskuciai-lays-170-ar-180-g",
       "product": "Bulvių traškučiai LAYS, 170 ar 180 g",
       "category": "Other",
@@ -2463,7 +2530,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 110,
+      "rank": 113,
       "dealId": "unmatched-kukuruzu-traskuciai-santa-maria-3-rusiu-185-g",
       "product": "Kukurūzų traškučiai SANTA MARIA, 3 rūšių, 185 g",
       "category": "Pantry",
@@ -2486,7 +2553,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 111,
+      "rank": 114,
       "dealId": "unmatched-ledai-vafliniame-ragelyje-baltija-140-ar-150-ml",
       "product": "Ledai vafliniame ragelyje BALTIJA, 140 ar 150 ml",
       "category": "Other",
@@ -2509,7 +2576,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 112,
+      "rank": 115,
       "dealId": "unmatched-sudyta-saltai-rukyta-atlantiniu-lasisu-file-well-done-su-oda-2-rusiu-170-g",
       "product": "WELL DONE Salted Cold-Smoked Fillet with Skin",
       "category": "Fish & Seafood",
@@ -2532,7 +2599,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 113,
+      "rank": 116,
       "dealId": "unmatched-urtes-sumustiniu-duona-su-grudais-470g",
       "product": "URTĖS sumuštinių duona su grūdais, 470g",
       "category": "Other",
@@ -2553,7 +2620,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 114,
+      "rank": 117,
       "dealId": "unmatched-spurga-donut-55-g",
       "product": "Spurga DONUT, 55 g",
       "category": "Other",
@@ -2576,7 +2643,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 115,
+      "rank": 118,
       "dealId": "unmatched-ypac-grynas-alyvuogiu-aliejus-filippo-berio-750-ml",
       "product": "Ypač grynas alyvuogių aliejus FILIPPO BERIO, 750 ml",
       "category": "Pantry",
@@ -2599,7 +2666,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 116,
+      "rank": 119,
       "dealId": "unmatched-guminukai-vidal-3-rusiu-90-g",
       "product": "Guminukai VIDAL, 3 rūšių, 90 g",
       "category": "Snacks",
@@ -2622,7 +2689,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 117,
+      "rank": 120,
       "dealId": "unmatched-pomidoru-padazas-be-konservantu-kedainiu-konservai-500-g",
       "product": "Pomidorų padažas BE KONSERVANTŲ KĖDAINIŲ KONSERVAI, 500 g",
       "category": "Pantry",
@@ -2644,19 +2711,19 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 118,
+      "rank": 121,
       "dealId": "unmatched-skinta-hortenzija-1-vnt",
-      "product": "Skinta hortenzija, 1 vnt.",
+      "product": "Skinta hortenzija, 1 vnt",
       "category": "Other",
       "store": "rimi",
-      "sourceName": "Skinta hortenzija, 1 vnt.",
+      "sourceName": "Skinta hortenzija, 1 vnt",
       "salePrice": 6.99,
       "regularPrice": 11.99,
       "pricePerUnit": 6.99,
       "pricePerUnitType": "piece",
       "discountPercent": 42,
       "validUntil": "2026-08-31",
-      "sourceUrl": "https://leidiniai.rimi.lt/2026/weekly/rimi-savaitinis-leidinys-nr-35/?Page=28",
+      "sourceUrl": "https://www.rimi.lt/e-parduotuve/lt/produktai/vaisiai-darzoves-ir-geles/geles/skinta-hortenzija-1-vnt/p/910643",
       "promotionType": "SALE",
       "dealScore": 60.8,
       "reasons": [
@@ -2666,7 +2733,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 119,
+      "rank": 122,
       "dealId": "unmatched-nauja-sviez-visc-broil-file-gab-vilniaus-paukstynas-uzaug-be-antib-500-g",
       "product": "NAUJA! Šviež. višč. broil. filė gab. VILNIAUS PAUKŠTYNAS, užaug. be antib., 500 g",
       "category": "Meat",
@@ -2690,7 +2757,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 120,
+      "rank": 123,
       "dealId": "unmatched-sutaupyk-virta-utenos-daktariska-desra-utenos-mesa-600-g",
       "product": "SUTAUPYK Virta UTENOS DAKTARIŠKA dešra UTENOS MĖSA, 600 g",
       "category": "Other",
@@ -2713,7 +2780,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 121,
+      "rank": 124,
       "dealId": "unmatched-rafinuotas-obeliu-rapsu-aliejus-2-l",
       "product": "Rafinuotas OBELIŲ rapsų aliejus, 2 l",
       "category": "Pantry",
@@ -2735,7 +2802,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 122,
+      "rank": 125,
       "dealId": "unmatched-geles-kasdienai-orchideja-1-vnt",
       "product": "GĖLĖS KASDIENAI Orchidėja, 1 vnt.",
       "category": "Other",
@@ -2757,7 +2824,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 123,
+      "rank": 126,
       "dealId": "unmatched-barbekiu-padazas-well-done-3-rusiu-280-g",
       "product": "Barbekiu padažas WELL DONE, 3 rūšių, 280 g",
       "category": "Pantry",
@@ -2779,7 +2846,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 124,
+      "rank": 127,
       "dealId": "unmatched-tortilijos-well-done-320-g",
       "product": "Tortilijos WELL DONE, 320 g",
       "category": "Pantry",
@@ -2801,7 +2868,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 125,
+      "rank": 128,
       "dealId": "unmatched-saldytos-karaliskosios-krevetes-nowaco-exclusive-be-kiautu-225-g",
       "product": "Šaldytos karališkosios krevetės NOWACO EXCLUSIVE be kiautų, 225 g",
       "category": "Frozen",
@@ -2824,7 +2891,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 126,
+      "rank": 129,
       "dealId": "unmatched-audiniu-minkstiklis-lenor-2x987-ar-2x1239-ml",
       "product": "Audinių minkštiklis LENOR, 2x987 ar 2x1239 ml",
       "category": "Other",
@@ -2847,7 +2914,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 127,
+      "rank": 130,
       "dealId": "watermelon",
       "product": "Watermelon",
       "category": "Fruit & Vegetables",
@@ -2867,7 +2934,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 128,
+      "rank": 131,
       "dealId": "unmatched-tartalete-su-vaisiais-1-kg",
       "product": "Tartaletė su vaisiais, 1 kg",
       "category": "Other",
@@ -2888,7 +2955,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 129,
+      "rank": 132,
       "dealId": "unmatched-konservuota-agurku-sriuba-well-done-480-g",
       "product": "Konservuota agurkų sriuba WELL DONE, 480 g",
       "category": "Pantry",
@@ -2910,7 +2977,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 130,
+      "rank": 133,
       "dealId": "unmatched-saldainiai-migle-1kg",
       "product": "MIGLĖ Candy",
       "category": "Snacks",
@@ -2931,7 +2998,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 131,
+      "rank": 134,
       "dealId": "unmatched-uzkandziu-dezute-lurch-1-vnt",
       "product": "Užkandžių dėžutė LURCH, 1 vnt.",
       "category": "Other",
@@ -2953,7 +3020,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 132,
+      "rank": 135,
       "dealId": "unmatched-vatos-lapeliai-bella-1-pak-120-vnt",
       "product": "BELLA Cotton Pads",
       "category": "Personal Care",
@@ -2975,7 +3042,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 133,
+      "rank": 136,
       "dealId": "unmatched-vytintas-jautienos-batonelis-doru-ranku-darbo-a-r-25-g",
       "product": "Vytintas jautienos batonėlis DORŲ RANKŲ DARBO, a. r., 25 g",
       "category": "Meat",
@@ -2998,7 +3065,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 134,
+      "rank": 137,
       "dealId": "unmatched-astru-puokste-50-cm-ivairiu-rusiu",
       "product": "Astrų puokštė, 50 cm, įvairių rūšių",
       "category": "Other",
@@ -3019,7 +3086,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 135,
+      "rank": 138,
       "dealId": "unmatched-karaliskasis-misinys-ar-studentu-maistas-arimex-premium-2-rusys",
       "product": "KARALIŠKASIS mišinys ar studentų maistas ARIMEX PREMIUM (2 rūšys)",
       "category": "Other",
@@ -3039,7 +3106,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 136,
+      "rank": 139,
       "dealId": "unmatched-saldainiai-raffaello-150-g",
       "product": "Saldainiai RAFFAELLO, 150 g",
       "category": "Snacks",
@@ -3062,7 +3129,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 137,
+      "rank": 140,
       "dealId": "unmatched-bandele-cinnabon-160-g-1-vnt",
       "product": "Bandelė CINNABON, 160 g, 1 vnt.",
       "category": "Other",
@@ -3084,7 +3151,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 138,
+      "rank": 141,
       "dealId": "unmatched-sutaupyk-majonezas-hellmanns-original-500-ml",
       "product": "SUTAUPYK Majonezas HELLMANNS ORIGINAL, 500 ml",
       "category": "Other",
@@ -3107,7 +3174,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 139,
+      "rank": 142,
       "dealId": "unmatched-marinuoti-vistienos-iesmeliai-premium-480-g",
       "product": "Marinuoti vištienos iešmeliai PREMIUM, 480 g",
       "category": "Other",
@@ -3130,7 +3197,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 140,
+      "rank": 143,
       "dealId": "unmatched-kepintu-riesutu-misinys-the-best-of-arimex-deluxe-140-g",
       "product": "Kepintų riešutų mišinys THE BEST OF ARIMEX DELUXE, 140 g",
       "category": "Pantry",
@@ -3153,7 +3220,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 141,
+      "rank": 144,
       "dealId": "unmatched-valgomieji-ledai-dione-ant-pagaliuko-3-rusiu-69-70-g",
       "product": "Valgomieji ledai DIONE ant pagaliuko, 3 rūšių, 69–70 g",
       "category": "Frozen",
@@ -3176,7 +3243,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 142,
+      "rank": 145,
       "dealId": "unmatched-nealkoholinis-alus-corona-cero-330-ml",
       "product": "CORONA CERO Non-Alcoholic Beer",
       "category": "Drinks",
@@ -3198,7 +3265,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 143,
+      "rank": 146,
       "dealId": "unmatched-tortas-su-uogytemis-vidutinis-1-kg",
       "product": "Tortas su uogytemis (vidutinis), 1 kg",
       "category": "Other",
@@ -3219,7 +3286,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 144,
+      "rank": 147,
       "dealId": "bananas",
       "product": "Bananas",
       "category": "Fruit & Vegetables",
@@ -3239,7 +3306,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 145,
+      "rank": 148,
       "dealId": "unmatched-bulviu-traskuciai-chazz-3-rusiu-90-g",
       "product": "Bulvių traškučiai CHAZZ, 3 rūšių, 90 g",
       "category": "Pantry",
@@ -3262,7 +3329,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 146,
+      "rank": 149,
       "dealId": "unmatched-kivi-uogos-125-g",
       "product": "Kivi uogos, 125 g",
       "category": "Other",
@@ -3285,7 +3352,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 147,
+      "rank": 150,
       "dealId": "unmatched-ivairiu-geliu-puokste-35-cm-ivairiu-rusiu",
       "product": "Įvairių gėlių puokštė, 35 cm, įvairių rūšių",
       "category": "Other",
@@ -3306,7 +3373,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 148,
+      "rank": 151,
       "dealId": "unmatched-sviezia-visciuku-broileriu-slauneliu-mesa-well-done-be-odos-ir-kaulu-500-g",
       "product": "Šviežia viščiukų broilerių šlaunelių mėsa WELL DONE be odos ir kaulų, 500 g",
       "category": "Meat",
@@ -3328,7 +3395,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 149,
+      "rank": 152,
       "dealId": "unmatched-grikiai-well-done-1-dez-8-pak-100-g",
       "product": "Grikiai WELL DONE, 1 dėž. (8 pak. × 100 g)",
       "category": "Pantry",
@@ -3350,7 +3417,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 150,
+      "rank": 153,
       "dealId": "unmatched-kokosu-vanduo-nawon-330-ml",
       "product": "Kokosų vanduo NAWON, 330 ml",
       "category": "Other",
@@ -3372,7 +3439,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 151,
+      "rank": 154,
       "dealId": "unmatched-marinuoti-agurkeliai-spilva-3-6-cm-670-g",
       "product": "Marinuoti agurkėliai SPILVA, 3–6 cm, 670 g",
       "category": "Pantry",
@@ -3394,7 +3461,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 152,
+      "rank": 155,
       "dealId": "unmatched-kvietiniai-miltai-well-done-a-r-550-d-2-kg",
       "product": "Kvietiniai miltai WELL DONE, a. r., 550 D, 2 kg",
       "category": "Pantry",
@@ -3416,7 +3483,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 153,
+      "rank": 156,
       "dealId": "unmatched-sudyta-silkiu-file-aliejuje-well-done-2-rusiu-450-g",
       "product": "WELL DONE Salted Herring Fillet",
       "category": "Fish & Seafood",
@@ -3438,7 +3505,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 154,
+      "rank": 157,
       "dealId": "unmatched-karstai-rukytas-vistienos-kumpelis-cyzas-vilniaus-paukstynas-2-rusiu-a-r-400-g",
       "product": "Karštai rūkytas vištienos kumpelis ČYZAS VILNIAUS PAUKŠTYNAS, 2 rūšių, a. r., 400 g",
       "category": "Meat",
@@ -3460,7 +3527,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 155,
+      "rank": 158,
       "dealId": "unmatched-saldieji-melionai-1-kg",
       "product": "Saldieji melionai, 1 kg",
       "category": "Other",
@@ -3482,7 +3549,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 156,
+      "rank": 159,
       "dealId": "pasta",
       "product": "Pasta",
       "category": "Pantry",
@@ -3504,7 +3571,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 157,
+      "rank": 160,
       "dealId": "unmatched-sutaupyk-gerimas-pepsi-7up-mirinda-ar-mountain-dew-500-m-5-rusys",
       "product": "SUTAUPYK Gėrimas PEPSI, 7UP, MIRINDA ar MOUNTAIN DEW, 500 m (5 rūšys)",
       "category": "Other",
@@ -3524,7 +3591,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 158,
+      "rank": 161,
       "dealId": "unmatched-gerimas-coca-cola-sprite-ar-fanta-2-l",
       "product": "Gėrimas COCA COLA, SPRITE ar FANTA, 2 l",
       "category": "Other",
@@ -3546,7 +3613,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 159,
+      "rank": 162,
       "dealId": "unmatched-ats-krevec-uodegeles-nev-be-k-16-20-1kg",
       "product": "Atš. kreveč. uodegėlės, nev., be k.,16-20,1kg",
       "category": "Other",
@@ -3567,7 +3634,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 160,
+      "rank": 163,
       "dealId": "unmatched-sausainiai-su-idaru-lovita-roshen-3-rusiu-127-150-g",
       "product": "Sausainiai su įdaru LOVITA ROSHEN, 3 rūšių, 127–150 g",
       "category": "Snacks",
@@ -3589,7 +3656,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 161,
+      "rank": 164,
       "dealId": "unmatched-jurginu-puokste-40-cm-1-puokste-7-vnt",
       "product": "Jurginų puokštė, 40 cm, 1 puokštė – 7 vnt.",
       "category": "Other",
@@ -3612,7 +3679,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 162,
+      "rank": 165,
       "dealId": "unmatched-surio-lazdeles-well-done-40-rieb-s-m-140-g",
       "product": "WELL DONE Cheese Sticks",
       "category": "Dairy & Eggs",
@@ -3634,7 +3701,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 163,
+      "rank": 166,
       "dealId": "unmatched-figos-1-vnt",
       "product": "Figos, 1 vnt.",
       "category": "Other",
@@ -3656,19 +3723,19 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 164,
-      "dealId": "unmatched-roziu-puokste-rimi-9-vnt",
-      "product": "Rožių puokštė RIMI, 9 vnt.",
+      "rank": 167,
+      "dealId": "unmatched-roziu-puokste-rimi-9-vnt-50-cm",
+      "product": "Rožių puokštė RIMI, 9 vnt., 50 cm",
       "category": "Other",
       "store": "rimi",
-      "sourceName": "Rožių puokštė RIMI, 9 vnt.",
+      "sourceName": "Rožių puokštė RIMI, 9 vnt., 50 cm",
       "salePrice": 3.99,
       "regularPrice": 6.99,
       "pricePerUnit": 0.44,
       "pricePerUnitType": "piece",
       "discountPercent": 43,
       "validUntil": "2026-08-31",
-      "sourceUrl": "https://leidiniai.rimi.lt/2026/weekly/rimi-savaitinis-leidinys-nr-35/?Page=30",
+      "sourceUrl": "https://www.rimi.lt/e-parduotuve/lt/produktai/vaisiai-darzoves-ir-geles/geles/roziu-puokste-rimi-9-vnt-50-cm/p/815041",
       "promotionType": "LOYALTY",
       "dealScore": 51.8,
       "reasons": [
@@ -3679,7 +3746,27 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 165,
+      "rank": 168,
+      "dealId": "unmatched-pyragas-su-varske-ir-avietemis-1-kg-300-g",
+      "product": "Pyragas su varške ir avietėmis, 1 kg/300 g",
+      "category": "Other",
+      "store": "rimi",
+      "sourceName": "Pyragas su varške ir avietėmis, 1 kg/300 g",
+      "salePrice": 7.99,
+      "regularPrice": 8.99,
+      "pricePerUnit": 7.99,
+      "pricePerUnitType": "kg",
+      "discountPercent": 11,
+      "sourceUrl": "https://www.rimi.lt/e-parduotuve/lt/produktai/rimi-konditerija-ir-kulinarija/konditerijos-gaminiai/pyragai-ir-vyniotiniai/pyragas-su-varske-ir-avietemis-1-kg-300-g/p/4000683",
+      "promotionType": "SALE",
+      "dealScore": 51.5,
+      "reasons": [
+        "LOWEST_OBSERVED_PRICE"
+      ],
+      "historicalStatus": "LOWEST_OBSERVED"
+    },
+    {
+      "rank": 169,
       "dealId": "unmatched-skalbimo-kapsules-persil-discs-color-70-vnt",
       "product": "Skalbimo kapsulės PERSIL DISCS COLOR, 70 vnt.",
       "category": "Other",
@@ -3701,7 +3788,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 166,
+      "rank": 170,
       "dealId": "unmatched-skinta-gele-kardelis-90-cm-1-vnt",
       "product": "Skinta gėlė kardelis , ≥ 90 cm, 1 vnt.",
       "category": "Other",
@@ -3724,7 +3811,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 167,
+      "rank": 171,
       "dealId": "unmatched-sumustinis-fresh-walk-choice-1-2-rusiu-165-180-g",
       "product": "Sumuštinis FRESH WALK CHOICE #1, 2 rūšių, 165–180 g",
       "category": "Other",
@@ -3746,7 +3833,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 168,
+      "rank": 172,
       "dealId": "unmatched-smulkintas-tunas-northland-425-g",
       "product": "Smulkintas tunas NORTHLAND, 425 g",
       "category": "Other",
@@ -3769,7 +3856,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 169,
+      "rank": 173,
       "dealId": "unmatched-silikoninis-nesusokantis-kraikas-katems-pet-perfect-10-l",
       "product": "Silikoninis nesušokantis kraikas katėms PET PERFECT, 10 l",
       "category": "Other",
@@ -3791,7 +3878,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 170,
+      "rank": 174,
       "dealId": "unmatched-sauskelnes-pampers-pants-mega-pack-74-128-vnt",
       "product": "Sauskelnės PAMPERS PANTS MEGA PACK, 74-128 vnt.",
       "category": "Other",
@@ -3813,7 +3900,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 171,
+      "rank": 175,
       "dealId": "unmatched-avieciu-citrinu-ar-kakavos-skonio-sakotis-250-g",
       "product": "Aviečių, citrinų ar kakavos skonio šakotis, 250 g",
       "category": "Other",
@@ -3836,7 +3923,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 172,
+      "rank": 176,
       "dealId": "unmatched-ivairiu-roziu-puokste-50-cm-ivairiu-rusiu",
       "product": "Įvairių rožių puokštė, 50 cm, įvairių rūšių",
       "category": "Other",
@@ -3857,7 +3944,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 173,
+      "rank": 177,
       "dealId": "unmatched-ryziu-ar-kukuruzu-trapuciai-rimi-60-g",
       "product": "Ryžių ar kukurūzų trapučiai RIMI, 60 g",
       "category": "Other",
@@ -3880,7 +3967,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 174,
+      "rank": 178,
       "dealId": "unmatched-tepamasis-suris-philadelphia-2-rusiu-19-21-rieb-s-m-300-g",
       "product": "PHILADELPHIA Spread Cheese",
       "category": "Dairy & Eggs",
@@ -3902,7 +3989,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 175,
+      "rank": 179,
       "dealId": "unmatched-sviezias-triusis-su-inkstais-ir-kepenelemis-lapino-puota-1-kg",
       "product": "Šviežias triušis su inkstais ir kepenėlėmis LAPINO PUOTA, fasuotas, 1 kg",
       "category": "Meat",
@@ -3924,7 +4011,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 176,
+      "rank": 180,
       "dealId": "unmatched-baltasis-cukrus-well-done-1-kg",
       "product": "Baltasis cukrus WELL DONE, 1 kg",
       "category": "Pantry",
@@ -3946,30 +4033,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 177,
-      "dealId": "unmatched-rukyti-sprotai-aliejuje-rimi-100g-70g",
-      "product": "Rūkyti šprotai aliejuje RIMI 100G/70G",
-      "category": "Other",
-      "store": "rimi",
-      "sourceName": "Rūkyti šprotai aliejuje RIMI 100G/70G",
-      "salePrice": 1.69,
-      "regularPrice": 2.39,
-      "pricePerUnit": 16.9,
-      "pricePerUnitType": "kg",
-      "discountPercent": 29,
-      "validUntil": "2026-08-31",
-      "sourceUrl": "https://www.rimi.lt/e-parduotuve/lt/produktai/mesa-ir-zuvis-/apdorotos-zuvies-gaminiai/konservuota-zuvis-ir-juros-gerybes/rukyti-sprotai-aliejuje-rimi-100g-70g/p/815612",
-      "promotionType": "SALE",
-      "dealScore": 50.1,
-      "reasons": [
-        "GOOD_DISCOUNT",
-        "LIMITED_HISTORY",
-        "STRONG_UNIT_PRICE"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 178,
+      "rank": 181,
       "dealId": "unmatched-nealkoholinis-utenos-alaus-kokteilis-radler-0-5-l",
       "product": "Nealkoholinis UTENOS alaus kokteilis RADLER, 0,5 l",
       "category": "Other",
@@ -3991,19 +4055,19 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 179,
-      "dealId": "unmatched-nilines-tilapijos-file-rimi-1-kg",
-      "product": "Nilinės tilapijos filė RIMI, 1 kg",
+      "rank": 182,
+      "dealId": "unmatched-nil-tilapijos-file-rimi-be-od-be-k-1-kg",
+      "product": "Nil. tilapijos filė RIMI, be od., be k., 1 kg",
       "category": "Other",
       "store": "rimi",
-      "sourceName": "Nilinės tilapijos filė RIMI, 1 kg",
+      "sourceName": "Nil. tilapijos filė RIMI, be od., be k., 1 kg",
       "salePrice": 8.99,
       "regularPrice": 12.99,
       "pricePerUnit": 8.99,
       "pricePerUnitType": "kg",
       "discountPercent": 31,
       "validUntil": "2026-08-31",
-      "sourceUrl": "https://leidiniai.rimi.lt/2026/weekly/rimi-savaitinis-leidinys-nr-35/?Page=7",
+      "sourceUrl": "https://www.rimi.lt/e-parduotuve/lt/produktai/mesa-ir-zuvis-/sviezios-zuvys-ir-juru-gerybes/zuvu-file/nil-tilapijos-file-rimi-be-od-be-k-1-kg/p/814691",
       "promotionType": "SALE",
       "dealScore": 49.5,
       "reasons": [
@@ -4014,7 +4078,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 180,
+      "rank": 183,
       "dealId": "unmatched-baltyminis-jogurtas-well-done-2-rusiu-2-rusiu-0-2-rieb-150-g",
       "product": "Baltyminis jogurtas WELL DONE, 2 rūšių, 2 rūšių, 0,2 % rieb., 150 g",
       "category": "Dairy & Eggs",
@@ -4036,7 +4100,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 181,
+      "rank": 184,
       "dealId": "unmatched-pyragas-naujiena-1kg",
       "product": "Pyragas Naujiena, 1kg",
       "category": "Other",
@@ -4056,7 +4120,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 182,
+      "rank": 185,
       "dealId": "unmatched-elektrinis-dantu-sepetelis-philips-sonicare-1100-1-vnt",
       "product": "Elektrinis dantų šepetėlis PHILIPS SONICARE 1100, 1 vnt.",
       "category": "Other",
@@ -4078,7 +4142,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 183,
+      "rank": 186,
       "dealId": "unmatched-tamsiosios-slyvos-1-kg",
       "product": "Tamsiosios slyvos, 1 kg",
       "category": "Other",
@@ -4100,7 +4164,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 184,
+      "rank": 187,
       "dealId": "unmatched-elektrinis-dantu-sepetelis-philips-sonicare-1100-1-vnt",
       "product": "Elektrinis dantų šepetėlis PHILIPS SONICARE 1100, 1 vnt.",
       "category": "Other",
@@ -4122,29 +4186,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 185,
-      "dealId": "unmatched-atit-jurinis-eserys-rimi-skr-1kg",
-      "product": "Atit. jūrinis ešerys RIMI, skr., 1kg",
-      "category": "Other",
-      "store": "rimi",
-      "sourceName": "Atit. jūrinis ešerys RIMI, skr., 1kg",
-      "salePrice": 6.99,
-      "regularPrice": 9.99,
-      "pricePerUnit": 6.99,
-      "pricePerUnitType": "kg",
-      "discountPercent": 30,
-      "sourceUrl": "https://www.rimi.lt/e-parduotuve/lt/produktai/mesa-ir-zuvis-/sviezios-zuvys-ir-juru-gerybes/visa-zuvis/atit-jurinis-eserys-rimi-skr-1kg/p/812942",
-      "promotionType": "SALE",
-      "dealScore": 47.1,
-      "reasons": [
-        "GOOD_DISCOUNT",
-        "LIMITED_HISTORY",
-        "STRONG_UNIT_PRICE"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 186,
+      "rank": 188,
       "dealId": "unmatched-vaisine-arbata-zolynelis-3-rusiu-1-dez-20-pak",
       "product": "Vaisinė arbata ŽOLYNĖLIS, 3 rūšių, 1 dėž. (20 pak.)",
       "category": "Other",
@@ -4166,7 +4208,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 187,
+      "rank": 189,
       "dealId": "unmatched-plautos-morkos-1-kg",
       "product": "Plautos morkos, 1 kg",
       "category": "Other",
@@ -4188,7 +4230,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 188,
+      "rank": 190,
       "dealId": "unmatched-konservuotu-ananasu-gabaliukai-ar-griezineliai-sirupe-rimi-567-g",
       "product": "Konservuotų ananasų gabaliukai ar griežinėliai sirupe RIMI, 567 g",
       "category": "Other",
@@ -4210,7 +4252,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 189,
+      "rank": 191,
       "dealId": "unmatched-bulguras-skaldyti-zirniai-galinta-2-rusiu-400-800-g",
       "product": "Bulguras; skaldyti žirniai GALINTA, 2 rūšių, 400–800 g",
       "category": "Pantry",
@@ -4232,7 +4274,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 190,
+      "rank": 192,
       "dealId": "unmatched-roziu-puokste-50-cm-1-puokste-7-vnt",
       "product": "Rožių puokštė, 50 cm, 1 puokštė – 7 vnt.",
       "category": "Other",
@@ -4255,7 +4297,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 191,
+      "rank": 193,
       "dealId": "unmatched-obuoliai-magic-star-1-kg",
       "product": "Obuoliai MAGIC STAR, 1 kg",
       "category": "Other",
@@ -4277,7 +4319,29 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 192,
+      "rank": 194,
+      "dealId": "unmatched-sviestinis-mociutes-sakotis-1-kg",
+      "product": "Sviestinis MOČIUTĖS šakotis, 1 kg",
+      "category": "Other",
+      "store": "rimi",
+      "sourceName": "Sviestinis MOČIUTĖS šakotis, 1 kg",
+      "salePrice": 17.99,
+      "regularPrice": 23.99,
+      "pricePerUnit": 17.99,
+      "pricePerUnitType": "kg",
+      "discountPercent": 25,
+      "sourceUrl": "https://www.rimi.lt/e-parduotuve/lt/produktai/rimi-konditerija-ir-kulinarija/konditerijos-gaminiai/sakociai/sviestinis-mociutes-sakotis-1-kg/p/1011348",
+      "promotionType": "SALE",
+      "dealScore": 44.8,
+      "reasons": [
+        "GOOD_DISCOUNT",
+        "LIMITED_HISTORY",
+        "STRONG_UNIT_PRICE"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 195,
       "dealId": "unmatched-sutaupyk-sunu-edalas-nutribalance-4x100-g",
       "product": "SUTAUPYK Šunų ėdalas NUTRIBALANCE, 4x100 g",
       "category": "Other",
@@ -4299,7 +4363,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 193,
+      "rank": 196,
       "dealId": "unmatched-kardelis-75-cm-1-vnt",
       "product": "Kardelis, 75 cm, 1 vnt.",
       "category": "Other",
@@ -4321,7 +4385,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 194,
+      "rank": 197,
       "dealId": "unmatched-saulegrazu-puokste-50-cm-1-puokste-5-vnt",
       "product": "Saulėgrąžų puokštė, 50 cm, 1 puokštė – 5 vnt.",
       "category": "Other",
@@ -4344,7 +4408,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 195,
+      "rank": 198,
       "dealId": "unmatched-kalakutu-krutineles-file-pjausniai-rimi-a-klase-360-g",
       "product": "Kalakutų krūtinėlės filė pjausniai RIMI, A klasė, 360 g",
       "category": "Other",
@@ -4367,7 +4431,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 196,
+      "rank": 199,
       "dealId": "unmatched-kietasis-suris-parnidzio-38-rieb-6-men-200-g",
       "product": "PARNIDŽIO Hard Cheese",
       "category": "Other",
@@ -4390,7 +4454,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 197,
+      "rank": 200,
       "dealId": "unmatched-zaliosios-cukinijos-1-kg",
       "product": "Žaliosios cukinijos, 1 kg",
       "category": "Other",
@@ -4412,7 +4476,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 198,
+      "rank": 201,
       "dealId": "unmatched-vytinta-desra-su-baltuoju-pelesiu-espetec-fuet-sola-150g",
       "product": "Vytinta dešra su baltuoju pelėsiu ESPETEC FUET SOLA, 150g",
       "category": "Other",
@@ -4435,7 +4499,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 199,
+      "rank": 202,
       "dealId": "unmatched-raudonos-saldziosios-paprikos-1-kg",
       "product": "Raudonos saldžiosios paprikos, 1 kg",
       "category": "Other",
@@ -4458,7 +4522,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 200,
+      "rank": 203,
       "dealId": "unmatched-gerimas-schweppes-1-l",
       "product": "Gėrimas SCHWEPPES, 1 l",
       "category": "Other",
@@ -4480,7 +4544,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 201,
+      "rank": 204,
       "dealId": "unmatched-raudonos-saldziosios-paprikos-1-kg",
       "product": "Raudonos saldžiosios paprikos, 1 kg",
       "category": "Other",
@@ -4502,7 +4566,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 202,
+      "rank": 205,
       "dealId": "unmatched-gerimas-kubus-play-400-ml",
       "product": "Gėrimas KUBUŠ PLAY, 400 ml",
       "category": "Other",
@@ -4524,7 +4588,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 203,
+      "rank": 206,
       "dealId": "unmatched-gerimas-tervete-1-5-l",
       "product": "Gėrimas TÉRVETE, 1,5 l",
       "category": "Other",
@@ -4546,7 +4610,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 204,
+      "rank": 207,
       "dealId": "unmatched-suktinukas-su-brinzos-suriu-ir-spinatais-rollini-95-g",
       "product": "Suktinukas su brinzos sūriu ir špinatais ROLLINI, 95 g",
       "category": "Other",
@@ -4568,7 +4632,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 205,
+      "rank": 208,
       "dealId": "unmatched-ivairiu-geliu-puokste-blossom-25-cm-ivairiu-rusiu",
       "product": "Įvairių gėlių puokštė BLOSSOM, 25 cm, įvairių rūšių",
       "category": "Other",
@@ -4588,7 +4652,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 206,
+      "rank": 209,
       "dealId": "unmatched-plikyta-duona-su-mieziais-ir-kanapiu-seklomis-680-g",
       "product": "Plikyta duona su miežiais ir kanapių sėklomis, 680 g",
       "category": "Other",
@@ -4610,7 +4674,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 207,
+      "rank": 210,
       "dealId": "unmatched-avietes-rimi-225-g",
       "product": "Avietės RIMI, 225 g",
       "category": "Other",
@@ -4632,29 +4696,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 208,
-      "dealId": "unmatched-vistienos-nuggets-su-saldziarugsciu-padazu-200-g",
-      "product": "Vištienos NUGGETS su saldžiarūgščiu padažu, 200 g",
-      "category": "Other",
-      "store": "rimi",
-      "sourceName": "Vištienos NUGGETS su saldžiarūgščiu padažu, 200 g",
-      "salePrice": 2.79,
-      "regularPrice": 3.49,
-      "pricePerUnit": 13.95,
-      "pricePerUnitType": "kg",
-      "discountPercent": 20,
-      "validUntil": "2026-08-31",
-      "sourceUrl": "https://leidiniai.rimi.lt/2026/weekly/rimi-savaitinis-leidinys-nr-35/?Page=9",
-      "promotionType": "SALE",
-      "dealScore": 36.5,
-      "reasons": [
-        "LIMITED_HISTORY",
-        "STRONG_UNIT_PRICE"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 209,
+      "rank": 211,
       "dealId": "unmatched-kruasanas-7-days-60-g",
       "product": "Kruasanas 7 DAYS, 60 g",
       "category": "Other",
@@ -4676,7 +4718,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 210,
+      "rank": 212,
       "dealId": "unmatched-humusas-200-g",
       "product": "Humusas, 200 g",
       "category": "Other",
@@ -4698,7 +4740,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 211,
+      "rank": 213,
       "dealId": "unmatched-sumustinis-mega-245-ar-255-g",
       "product": "Sumuštinis MEGA, 245 ar 255 g",
       "category": "Other",
@@ -4720,7 +4762,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 212,
+      "rank": 214,
       "dealId": "unmatched-sumustinis-mega-245-ar-255-g",
       "product": "Sumuštinis MEGA, 245 ar 255 g",
       "category": "Other",
@@ -4742,7 +4784,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 213,
+      "rank": 215,
       "dealId": "unmatched-rambyno-lydytas-tepamasis-surelis-175-g",
       "product": "RAMBYNO Processed Spread Cheese Snack",
       "category": "Other",
@@ -4764,7 +4806,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 214,
+      "rank": 216,
       "dealId": "unmatched-gvazdiku-puokste-50-cm-1-puokste-9-vnt",
       "product": "Gvazdikų puokštė, 50 cm, 1 puokštė – 9 vnt.",
       "category": "Other",
@@ -4787,7 +4829,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 215,
+      "rank": 217,
       "dealId": "unmatched-visc-sparneliu-peteliai-vidurines-dalys-vilniaus-paukstynas-premium-3-rusiu-500-",
       "product": "Višč. sparnelių peteliai; vidurinės dalys VILNIAUS PAUKŠTYNAS PREMIUM, 3 rūšių, 500 g",
       "category": "Meat",
@@ -4809,28 +4851,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 216,
-      "dealId": "unmatched-kavos-kapsules-lor-mattinata-10-vnt-52-g",
-      "product": "Kavos kapsulės LOR MATTINATA, 10 vnt. 52 g",
-      "category": "Other",
-      "store": "rimi",
-      "sourceName": "Kavos kapsulės LOR MATTINATA, 10 vnt. 52 g",
-      "salePrice": 3.79,
-      "regularPrice": 4.99,
-      "pricePerUnit": 0.38,
-      "pricePerUnitType": "piece",
-      "discountPercent": 24,
-      "validUntil": "2026-08-31",
-      "sourceUrl": "https://www.rimi.lt/e-parduotuve/lt/produktai/bakaleja/kava-ir-kakava/kavos-kapsules/kavos-kapsules-lor-mattinata-10-vnt-52-g/p/186428",
-      "promotionType": "SALE",
-      "dealScore": 32.7,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 217,
+      "rank": 218,
       "dealId": "unmatched-energinis-gerimas-cult-4-rusiu-2-skard-500-ml",
       "product": "CULT Energy Drink",
       "category": "Drinks",
@@ -4850,7 +4871,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 218,
+      "rank": 219,
       "dealId": "unmatched-kaciu-skanestas-dreamies-3-rusiu-2-pak-60-g",
       "product": "DREAMIES Cat Treat",
       "category": "Household",
@@ -4870,7 +4891,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 219,
+      "rank": 220,
       "dealId": "unmatched-glaistytas-vilkyskiu-varskes-surelis-15-rusiu-24-28-rieb-3-vnt-40-g",
       "product": "Glaistytas VILKYŠKIŲ varškės sūrelis, 15 rūšių, 24–28 % rieb., 3 vnt. × 40 g",
       "category": "Dairy & Eggs",
@@ -4890,7 +4911,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 220,
+      "rank": 221,
       "dealId": "unmatched-konservuotas-kaciu-edalas-gourmet-gold-14-rusiu-3-ind-85-g",
       "product": "GOURMET GOLD Canned Cat Food",
       "category": "Household",
@@ -4910,7 +4931,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 221,
+      "rank": 222,
       "dealId": "unmatched-greitai-paruosiami-makaronai-reeva-4-rusiu-3-vnt-60-g",
       "product": "Greitai paruošiami makaronai REEVA, 4 rūšių, 3 vnt. × 60 g",
       "category": "Pantry",
@@ -4930,7 +4951,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 222,
+      "rank": 223,
       "dealId": "unmatched-javainiu-batonelis-corny-big-12-rusiu-2-vnt-40-50-g",
       "product": "Javainių batonėlis CORNY BIG, 12 rūšių, 2 vnt. × 40–50 g",
       "category": "Snacks",
@@ -4950,7 +4971,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 223,
+      "rank": 224,
       "dealId": "unmatched-gazuotas-mineralinis-vanduo-neptunas-5-rusiu-2-but-1-5-l",
       "product": "NEPTŪNAS Carbonated Mineral Water",
       "category": "Drinks",
@@ -4970,7 +4991,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 224,
+      "rank": 225,
       "dealId": "unmatched-pieno-gerimas-miau-6-rusiu-2-3-2-6-rieb-2-but-450-ml",
       "product": "Pieno gėrimas MIAU, 6 rūšių, 2,3–2,6 % rieb., 2 but. × 450 ml",
       "category": "Dairy & Eggs",
@@ -4990,7 +5011,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 225,
+      "rank": 226,
       "dealId": "unmatched-plikyti-sausaineliai-jdc-2-pak-200-g",
       "product": "PLIKYTI sausainėliai JDC, 2 pak. × 200 g",
       "category": "Snacks",
@@ -5010,7 +5031,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 226,
+      "rank": 227,
       "dealId": "unmatched-prancuziska-bandele-su-desrele-kecupu-ir-garstyciomis-2-vnt-95-g",
       "product": "Prancūziška bandelė su dešrele, kečupu ir garstyčiomis, 2 vnt. × 95 g",
       "category": "Other",
@@ -5030,7 +5051,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 227,
+      "rank": 228,
       "dealId": "unmatched-raguolis-7-days-8-rusiu-2-vnt-60-g",
       "product": "Raguolis 7 DAYS, 8 rūšių, 2 vnt. × 60 g",
       "category": "Snacks",
@@ -5050,7 +5071,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 228,
+      "rank": 229,
       "dealId": "unmatched-saldyti-koldunai-vici-traditional-2-rusiu-2-pak-400-g",
       "product": "Šaldyti koldūnai VIČI TRADITIONAL, 2 rūšių, 2 pak. × 400 g",
       "category": "Frozen",
@@ -5070,7 +5091,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 229,
+      "rank": 230,
       "dealId": "unmatched-saulegrazos-well-done-3-rusiu-2-pak-150-g",
       "product": "Saulėgrąžos WELL DONE, 3 rūšių, 2 pak. × 150 g",
       "category": "Pantry",
@@ -5090,7 +5111,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 230,
+      "rank": 231,
       "dealId": "unmatched-sokoladinis-batonelis-bounty-twix-xtra-2-rusiu-2-vnt-57-75-g",
       "product": "Šokoladinis batonėlis BOUNTY; TWIX XTRA, 2 rūšių, 2 vnt. × 57–75 g",
       "category": "Snacks",
@@ -5110,7 +5131,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 231,
+      "rank": 232,
       "dealId": "unmatched-spurga-su-vaisiu-idaru-atitirpinta-3-vnt-65-g",
       "product": "Spurga su vaisių įdaru, atitirpinta, 3 vnt. × 65 g",
       "category": "Other",
@@ -5130,7 +5151,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 232,
+      "rank": 233,
       "dealId": "unmatched-tofu-kaciu-kraikas-ardour-2-rusiu-2-pak-2-5-kg",
       "product": "Tofu kačių kraikas ARDOUR, 2 rūšių, 2 pak. × 2,5 kg",
       "category": "Household",
@@ -5150,7 +5171,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 233,
+      "rank": 234,
       "dealId": "unmatched-traskios-lazdeles-saules-grudas-5-rusiu-2-pak-125-g",
       "product": "Traškios lazdelės SAULĖS GRŪDAS, 5 rūšių, 2 pak. × 125 g",
       "category": "Pantry",
@@ -5170,7 +5191,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 234,
+      "rank": 235,
       "dealId": "unmatched-varskes-surelis-rytas-4-rusiu-7-5-8-rieb-2-vnt-100-g",
       "product": "Varškės sūrelis RYTAS, 4 rūšių, 7,5–8 % rieb., 2 vnt. × 100 g",
       "category": "Dairy & Eggs",
@@ -5190,7 +5211,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 235,
+      "rank": 236,
       "dealId": "unmatched-sausas-kaciu-edalas-whiskas-4-rusiu-2-pak-800-g",
       "product": "WHISKAS Dry Cat Food",
       "category": "Household",
@@ -5210,7 +5231,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 236,
+      "rank": 237,
       "dealId": "unmatched-silikoninis-nesusokantis-kraikas-katems-pet-perfect-10-l",
       "product": "Silikoninis nesušokantis kraikas katėms PET PERFECT, 10 l",
       "category": "Other",
@@ -5231,7 +5252,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 237,
+      "rank": 238,
       "dealId": "unmatched-fas-obuoliai-gala-must-1-kl-1kg",
       "product": "Fas. obuoliai GALA MUST,1 kl.,1kg",
       "category": "Other",
@@ -5245,26 +5266,6 @@
       "sourceUrl": "https://www.rimi.lt/e-parduotuve/lt/produktai/vaisiai-darzoves-ir-geles/vaisiai-ir-uogos/obuoliai-/fas-obuoliai-gala-must-1-kl-1kg/p/219161",
       "promotionType": "SALE",
       "dealScore": 25,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 238,
-      "dealId": "unmatched-pyragas-su-varske-ir-avietemis-1-kg-300-g",
-      "product": "Pyragas su varške ir avietėmis, 1 kg/300 g",
-      "category": "Other",
-      "store": "rimi",
-      "sourceName": "Pyragas su varške ir avietėmis, 1 kg/300 g",
-      "salePrice": 7.99,
-      "regularPrice": 8.99,
-      "pricePerUnit": 7.99,
-      "pricePerUnitType": "kg",
-      "discountPercent": 11,
-      "sourceUrl": "https://www.rimi.lt/e-parduotuve/lt/produktai/rimi-konditerija-ir-kulinarija/konditerijos-gaminiai/pyragai-ir-vyniotiniai/pyragas-su-varske-ir-avietemis-1-kg-300-g/p/4000683",
-      "promotionType": "SALE",
-      "dealScore": 21.5,
       "reasons": [
         "LIMITED_HISTORY"
       ],
@@ -6557,6 +6558,29 @@
       },
       {
         "rank": 27,
+        "dealId": "unmatched-rukyti-sprotai-aliejuje-rimi-100g-70g",
+        "product": "Rūkyti šprotai aliejuje RIMI 100G/70G",
+        "category": "Other",
+        "store": "rimi",
+        "sourceName": "Rūkyti šprotai aliejuje RIMI 100G/70G",
+        "salePrice": 1.69,
+        "regularPrice": 2.39,
+        "pricePerUnit": 16.9,
+        "pricePerUnitType": "kg",
+        "discountPercent": 29,
+        "validUntil": "2026-08-31",
+        "sourceUrl": "https://www.rimi.lt/e-parduotuve/lt/produktai/mesa-ir-zuvis-/apdorotos-zuvies-gaminiai/konservuota-zuvis-ir-juros-gerybes/rukyti-sprotai-aliejuje-rimi-100g-70g/p/815612",
+        "promotionType": "SALE",
+        "dealScore": 80.1,
+        "reasons": [
+          "GOOD_DISCOUNT",
+          "LOWEST_OBSERVED_PRICE",
+          "STRONG_UNIT_PRICE"
+        ],
+        "historicalStatus": "LOWEST_OBSERVED"
+      },
+      {
+        "rank": 28,
         "dealId": "unmatched-kukuruzu-spragesiai-su-druska-estrella-90g",
         "product": "Kukurūzų spragėsiai su druska, ESTRELLA, 90g",
         "category": "Other",
@@ -6579,7 +6603,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 28,
+        "rank": 29,
         "dealId": "unmatched-at-virt-bl-krevetes-rimi-40-60-1-kg",
         "product": "At. virt. bl. krevetės RIMI, 40/60, 1 kg",
         "category": "Other",
@@ -6601,7 +6625,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 29,
+        "rank": 30,
         "dealId": "unmatched-virta-visc-pusele-su-cesnaku-vp-a-r-1-kg",
         "product": "Virta višč. puselė su česnaku VP, a. r., 1 kg",
         "category": "Other",
@@ -6623,7 +6647,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 30,
+        "rank": 31,
         "dealId": "nectarines",
         "product": "Nectarines",
         "category": "Fruit & Vegetables",
@@ -6645,7 +6669,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 31,
+        "rank": 32,
         "dealId": "nectarines",
         "product": "Nectarines",
         "category": "Fruit & Vegetables",
@@ -6667,7 +6691,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 32,
+        "rank": 33,
         "dealId": "unmatched-puskietis-suris-dvaro-50-rieb-240-g",
         "product": "Puskietis sūris DVARO, 50 % rieb., 240 g",
         "category": "Other",
@@ -6690,7 +6714,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 33,
+        "rank": 34,
         "dealId": "unmatched-vaisiu-skonio-zele-jelly-1kg",
         "product": "Fruit Jelly Candy",
         "category": "Snacks",
@@ -6712,7 +6736,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 34,
+        "rank": 35,
         "dealId": "unmatched-at-virt-bl-krevetes-rimi-60-80-1-kg",
         "product": "At. virt. bl. krevetės RIMI, 60/80, 1 kg",
         "category": "Other",
@@ -6734,7 +6758,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 35,
+        "rank": 36,
         "dealId": "unmatched-mocarelos-suris-formagia-125g",
         "product": "Mocarelos sūris FORMAGIA 125g",
         "category": "Other",
@@ -6757,7 +6781,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 36,
+        "rank": 37,
         "dealId": "unmatched-dvaro-grietine-40-rieb-380-g",
         "product": "DVARO grietinė, 40 % rieb., 380 g",
         "category": "Other",
@@ -6780,7 +6804,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 37,
+        "rank": 38,
         "dealId": "unmatched-tamsios-slyvos-35-mm-1-kl-1-kg",
         "product": "Tamsios slyvos, 35+ mm, 1 kl., 1 kg",
         "category": "Other",
@@ -6802,7 +6826,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 38,
+        "rank": 39,
         "dealId": "white-mushrooms",
         "product": "White Mushrooms",
         "category": "Fruit & Vegetables",
@@ -6824,7 +6848,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 39,
+        "rank": 40,
         "dealId": "unmatched-varskes-sausainiai-1-kg",
         "product": "Varškės sausainiai, 1 kg",
         "category": "Other",
@@ -6846,7 +6870,29 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 40,
+        "rank": 41,
+        "dealId": "unmatched-atit-jurinis-eserys-rimi-skr-1kg",
+        "product": "Atit. jūrinis ešerys RIMI, skr., 1kg",
+        "category": "Other",
+        "store": "rimi",
+        "sourceName": "Atit. jūrinis ešerys RIMI, skr., 1kg",
+        "salePrice": 6.99,
+        "regularPrice": 9.99,
+        "pricePerUnit": 6.99,
+        "pricePerUnitType": "kg",
+        "discountPercent": 30,
+        "sourceUrl": "https://www.rimi.lt/e-parduotuve/lt/produktai/mesa-ir-zuvis-/sviezios-zuvys-ir-juru-gerybes/visa-zuvis/atit-jurinis-eserys-rimi-skr-1kg/p/812942",
+        "promotionType": "SALE",
+        "dealScore": 77.1,
+        "reasons": [
+          "GOOD_DISCOUNT",
+          "LOWEST_OBSERVED_PRICE",
+          "STRONG_UNIT_PRICE"
+        ],
+        "historicalStatus": "LOWEST_OBSERVED"
+      },
+      {
+        "rank": 42,
         "dealId": "unmatched-karst-ruk-kalakuto-krutin-pipirine-a-r-1kg",
         "product": "Karšt.rūk.kalakuto krūtin. PIPIRINĖ,a.r., 1kg",
         "category": "Other",
@@ -6868,7 +6914,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 41,
+        "rank": 43,
         "dealId": "unmatched-plautos-morkos-kg",
         "product": "Plautos morkos, kg",
         "category": "Other",
@@ -6890,28 +6936,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 42,
-        "dealId": "unmatched-abrikosai-40-50-mm-1-kl-1-kg",
-        "product": "Abrikosai 40-50+ mm, 1 kl., 1 kg",
-        "category": "Other",
-        "store": "rimi",
-        "sourceName": "Abrikosai 40-50+ mm, 1 kl., 1 kg",
-        "salePrice": 1.99,
-        "regularPrice": 2.99,
-        "pricePerUnit": 1.99,
-        "pricePerUnitType": "kg",
-        "discountPercent": 33,
-        "sourceUrl": "https://www.rimi.lt/e-parduotuve/lt/produktai/vaisiai-darzoves-ir-geles/vaisiai-ir-uogos/kaulavaisiai/abrikosai-40-50-mm-1-kl-1-kg/p/965073",
-        "promotionType": "SALE",
-        "dealScore": 76.3,
-        "reasons": [
-          "GOOD_DISCOUNT",
-          "LOWEST_OBSERVED_PRICE"
-        ],
-        "historicalStatus": "LOWEST_OBSERVED"
-      },
-      {
-        "rank": 43,
+        "rank": 44,
         "dealId": "unmatched-zaliosios-cukinijos-kg",
         "product": "Žaliosios cukinijos, kg",
         "category": "Other",
@@ -6933,7 +6958,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 44,
+        "rank": 45,
         "dealId": "unmatched-mazas-sviestinis-mociutes-sakotis-1-kg",
         "product": "Mažas sviestinis MOČIUTĖS šakotis, 1 kg",
         "category": "Other",
@@ -6955,7 +6980,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 45,
+        "rank": 46,
         "dealId": "unmatched-saldainiai-korivka-1kg",
         "product": "KORIVKA Candy",
         "category": "Snacks",
@@ -6977,7 +7002,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 46,
+        "rank": 47,
         "dealId": "unmatched-karstai-rukyta-kalakutu-krutinele-arvi-a-1kg",
         "product": "ARVI Hot-Smoked Breast",
         "category": "Other",
@@ -6999,7 +7024,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 47,
+        "rank": 48,
         "dealId": "unmatched-atitirp-mini-eklerai-su-varskes-idaru-200-g",
         "product": "Atitirp. mini eklerai su varškės įdaru, 200 g",
         "category": "Other",
@@ -7022,7 +7047,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 48,
+        "rank": 49,
         "dealId": "unmatched-tortas-ambasadorius-vidutinis-1-kg",
         "product": "Tortas Ambasadorius (vidutinis), 1 kg",
         "category": "Other",
@@ -7044,7 +7069,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 49,
+        "rank": 50,
         "dealId": "unmatched-pusryciu-batonas-lietuvos-kepejas-500-g",
         "product": "PUSRYČIŲ batonas LIETUVOS KEPĖJAS, 500 g",
         "category": "Other",
@@ -7066,7 +7091,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 50,
+        "rank": 51,
         "dealId": "unmatched-saldus-kukuruzai-rimi-340g-285g",
         "product": "Saldūs kukurūzai RIMI, 340g/285g",
         "category": "Other",
@@ -7088,7 +7113,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 51,
+        "rank": 52,
         "dealId": "unmatched-raud-saldziosios-paprikos-80-1kl-1kg",
         "product": "Raud. saldžiosios paprikos (80+),1kl,1kg",
         "category": "Other",
@@ -7110,7 +7135,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 52,
+        "rank": 53,
         "dealId": "unmatched-zaliosios-lapines-salotos-rimi-1vnt",
         "product": "Žaliosios lapinės salotos RIMI, 1vnt",
         "category": "Other",
@@ -7132,7 +7157,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 53,
+        "rank": 54,
         "dealId": "unmatched-dantu-pasta-lebon-75-ml",
         "product": "Dantų pasta LEBON, 75 ml",
         "category": "Other",
@@ -7155,7 +7180,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 54,
+        "rank": 55,
         "dealId": "unmatched-gazuotas-nat-mineralinis-vanduo-vytautas-1l",
         "product": "VYTAUTAS Carbonated Mineral Water",
         "category": "Other",
@@ -7177,7 +7202,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 55,
+        "rank": 56,
         "dealId": "quark-9",
         "product": "Quark, 9% Fat",
         "category": "Dairy & Eggs",
@@ -7200,7 +7225,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 56,
+        "rank": 57,
         "dealId": "unmatched-paruk-kalakuto-krutinele-arvi-kalakutai-1kg",
         "product": "Parūk. kalakuto krūtinėlė ARVI KALAKUTAI, 1kg",
         "category": "Other",
@@ -7221,7 +7246,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 57,
+        "rank": 58,
         "dealId": "unmatched-obuoliai-magic-star-1kl-kg",
         "product": "Obuoliai MAGIC STAR, 1kl, kg",
         "category": "Other",
@@ -7243,7 +7268,7 @@
         "historicalStatus": "NEAR_LOWEST"
       },
       {
-        "rank": 58,
+        "rank": 59,
         "dealId": "unmatched-krekeriai-su-trumais-scrocchi-laurieri-175-g",
         "product": "Krekeriai su trumais SCROCCHI LAURIERI, 175 g",
         "category": "Other",
@@ -7265,7 +7290,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 59,
+        "rank": 60,
         "dealId": "unmatched-dezodorantai-dove-200-ml",
         "product": "Dezodorantai DOVE, 200 ml",
         "category": "Other",
@@ -7288,7 +7313,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 60,
+        "rank": 61,
         "dealId": "unmatched-tualeto-valiklis-gaiviklis-bref-power-aktiv-6-x-50-g",
         "product": "Tualeto valiklis gaiviklis BREF POWER AKTIV, 6 x 50 g",
         "category": "Other",
@@ -7311,7 +7336,29 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 61,
+        "rank": 62,
+        "dealId": "unmatched-vistienos-nuggets-su-saldziar-padazu-200g",
+        "product": "Vištienos NUGGETS su saldžiar.padažu, 200g",
+        "category": "Other",
+        "store": "rimi",
+        "sourceName": "Vištienos NUGGETS su saldžiar.padažu, 200g",
+        "salePrice": 2.79,
+        "regularPrice": 3.49,
+        "pricePerUnit": 13.95,
+        "pricePerUnitType": "kg",
+        "discountPercent": 20,
+        "validUntil": "2026-08-31",
+        "sourceUrl": "https://www.rimi.lt/e-parduotuve/lt/produktai/rimi-konditerija-ir-kulinarija/paruostas-maistas-kulinarija/uzkandziai/vistienos-nuggets-su-saldziar-padazu-200g/p/4011654",
+        "promotionType": "SALE",
+        "dealScore": 66.5,
+        "reasons": [
+          "LOWEST_OBSERVED_PRICE",
+          "STRONG_UNIT_PRICE"
+        ],
+        "historicalStatus": "LOWEST_OBSERVED"
+      },
+      {
+        "rank": 63,
         "dealId": "short-cucumbers",
         "product": "Short Cucumbers",
         "category": "Fruit & Vegetables",
@@ -7333,7 +7380,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 62,
+        "rank": 64,
         "dealId": "quark-9",
         "product": "Quark, 9% Fat",
         "category": "Dairy & Eggs",
@@ -7354,7 +7401,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 63,
+        "rank": 65,
         "dealId": "short-cucumbers",
         "product": "Short Cucumbers",
         "category": "Fruit & Vegetables",
@@ -7376,7 +7423,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 64,
+        "rank": 66,
         "dealId": "unmatched-varskes-zagareliai-1kg",
         "product": "Varškės žagarėliai, 1kg",
         "category": "Other",
@@ -7397,7 +7444,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 65,
+        "rank": 67,
         "dealId": "unmatched-darzoviu-sal-su-saldziarugsciu-padazu-200g",
         "product": "Daržovių sal. su saldžiarūgščiu padažu, 200g",
         "category": "Other",
@@ -7418,7 +7465,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 66,
+        "rank": 68,
         "dealId": "unmatched-tirpios-kavos-gerimas-maiselyje-nescafe-3in1-classic-30x15-5-g",
         "product": "Tirpios kavos gėrimas maišelyje NESCAFE 3in1 CLASSIC, 30x15,5 g",
         "category": "Other",
@@ -7441,7 +7488,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 67,
+        "rank": 69,
         "dealId": "unmatched-zuvies-pirsteliai-esva-450-g",
         "product": "Žuvies piršteliai ESVA, 450 g",
         "category": "Other",
@@ -7462,7 +7509,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 68,
+        "rank": 70,
         "dealId": "unmatched-sokoladas-milka-250-300-g",
         "product": "Šokoladas MILKA, 250-300 g",
         "category": "Other",
@@ -7485,7 +7532,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 69,
+        "rank": 71,
         "dealId": "unmatched-kojines-adidas-6-rusys",
         "product": "Kojinės ADIDAS (6 rūšys)",
         "category": "Other",
@@ -7505,7 +7552,28 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 70,
+        "rank": 72,
+        "dealId": "unmatched-kavos-kapsules-lor-mattinata-10-vnt-52-g",
+        "product": "Kavos kapsulės LOR MATTINATA, 10 vnt. 52 g",
+        "category": "Other",
+        "store": "rimi",
+        "sourceName": "Kavos kapsulės LOR MATTINATA, 10 vnt. 52 g",
+        "salePrice": 3.79,
+        "regularPrice": 4.99,
+        "pricePerUnit": 0.38,
+        "pricePerUnitType": "piece",
+        "discountPercent": 24,
+        "validUntil": "2026-08-31",
+        "sourceUrl": "https://www.rimi.lt/e-parduotuve/lt/produktai/bakaleja/kava-ir-kakava/kavos-kapsules/kavos-kapsules-lor-mattinata-10-vnt-52-g/p/186428",
+        "promotionType": "SALE",
+        "dealScore": 62.7,
+        "reasons": [
+          "LOWEST_OBSERVED_PRICE"
+        ],
+        "historicalStatus": "LOWEST_OBSERVED"
+      },
+      {
+        "rank": 73,
         "dealId": "unmatched-bulviu-traskuciai-lays-170-ar-180-g",
         "product": "Bulvių traškučiai LAYS, 170 ar 180 g",
         "category": "Other",
@@ -7528,7 +7596,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 71,
+        "rank": 74,
         "dealId": "unmatched-ledai-vafliniame-ragelyje-baltija-140-ar-150-ml",
         "product": "Ledai vafliniame ragelyje BALTIJA, 140 ar 150 ml",
         "category": "Other",
@@ -7551,7 +7619,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 72,
+        "rank": 75,
         "dealId": "unmatched-urtes-sumustiniu-duona-su-grudais-470g",
         "product": "URTĖS sumuštinių duona su grūdais, 470g",
         "category": "Other",
@@ -7572,7 +7640,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 73,
+        "rank": 76,
         "dealId": "unmatched-spurga-donut-55-g",
         "product": "Spurga DONUT, 55 g",
         "category": "Other",
@@ -7595,19 +7663,19 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 74,
+        "rank": 77,
         "dealId": "unmatched-skinta-hortenzija-1-vnt",
-        "product": "Skinta hortenzija, 1 vnt.",
+        "product": "Skinta hortenzija, 1 vnt",
         "category": "Other",
         "store": "rimi",
-        "sourceName": "Skinta hortenzija, 1 vnt.",
+        "sourceName": "Skinta hortenzija, 1 vnt",
         "salePrice": 6.99,
         "regularPrice": 11.99,
         "pricePerUnit": 6.99,
         "pricePerUnitType": "piece",
         "discountPercent": 42,
         "validUntil": "2026-08-31",
-        "sourceUrl": "https://leidiniai.rimi.lt/2026/weekly/rimi-savaitinis-leidinys-nr-35/?Page=28",
+        "sourceUrl": "https://www.rimi.lt/e-parduotuve/lt/produktai/vaisiai-darzoves-ir-geles/geles/skinta-hortenzija-1-vnt/p/910643",
         "promotionType": "SALE",
         "dealScore": 60.8,
         "reasons": [
@@ -7617,7 +7685,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 75,
+        "rank": 78,
         "dealId": "unmatched-sutaupyk-virta-utenos-daktariska-desra-utenos-mesa-600-g",
         "product": "SUTAUPYK Virta UTENOS DAKTARIŠKA dešra UTENOS MĖSA, 600 g",
         "category": "Other",
@@ -7640,7 +7708,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 76,
+        "rank": 79,
         "dealId": "unmatched-geles-kasdienai-orchideja-1-vnt",
         "product": "GĖLĖS KASDIENAI Orchidėja, 1 vnt.",
         "category": "Other",
@@ -7662,7 +7730,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 77,
+        "rank": 80,
         "dealId": "unmatched-audiniu-minkstiklis-lenor-2x987-ar-2x1239-ml",
         "product": "Audinių minkštiklis LENOR, 2x987 ar 2x1239 ml",
         "category": "Other",
@@ -7685,7 +7753,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 78,
+        "rank": 81,
         "dealId": "watermelon",
         "product": "Watermelon",
         "category": "Fruit & Vegetables",
@@ -7705,7 +7773,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 79,
+        "rank": 82,
         "dealId": "unmatched-tartalete-su-vaisiais-1-kg",
         "product": "Tartaletė su vaisiais, 1 kg",
         "category": "Other",
@@ -7726,7 +7794,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 80,
+        "rank": 83,
         "dealId": "unmatched-saldainiai-migle-1kg",
         "product": "MIGLĖ Candy",
         "category": "Snacks",
@@ -7747,7 +7815,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 81,
+        "rank": 84,
         "dealId": "unmatched-uzkandziu-dezute-lurch-1-vnt",
         "product": "Užkandžių dėžutė LURCH, 1 vnt.",
         "category": "Other",
@@ -7769,7 +7837,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 82,
+        "rank": 85,
         "dealId": "unmatched-karaliskasis-misinys-ar-studentu-maistas-arimex-premium-2-rusys",
         "product": "KARALIŠKASIS mišinys ar studentų maistas ARIMEX PREMIUM (2 rūšys)",
         "category": "Other",
@@ -7789,7 +7857,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 83,
+        "rank": 86,
         "dealId": "unmatched-sutaupyk-majonezas-hellmanns-original-500-ml",
         "product": "SUTAUPYK Majonezas HELLMANNS ORIGINAL, 500 ml",
         "category": "Other",
@@ -7812,7 +7880,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 84,
+        "rank": 87,
         "dealId": "unmatched-marinuoti-vistienos-iesmeliai-premium-480-g",
         "product": "Marinuoti vištienos iešmeliai PREMIUM, 480 g",
         "category": "Other",
@@ -7835,7 +7903,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 85,
+        "rank": 88,
         "dealId": "unmatched-tortas-su-uogytemis-vidutinis-1-kg",
         "product": "Tortas su uogytemis (vidutinis), 1 kg",
         "category": "Other",
@@ -7856,7 +7924,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 86,
+        "rank": 89,
         "dealId": "bananas",
         "product": "Bananas",
         "category": "Fruit & Vegetables",
@@ -7876,7 +7944,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 87,
+        "rank": 90,
         "dealId": "unmatched-kivi-uogos-125-g",
         "product": "Kivi uogos, 125 g",
         "category": "Other",
@@ -7899,7 +7967,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 88,
+        "rank": 91,
         "dealId": "unmatched-kokosu-vanduo-nawon-330-ml",
         "product": "Kokosų vanduo NAWON, 330 ml",
         "category": "Other",
@@ -7921,7 +7989,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 89,
+        "rank": 92,
         "dealId": "unmatched-saldieji-melionai-1-kg",
         "product": "Saldieji melionai, 1 kg",
         "category": "Other",
@@ -7943,7 +8011,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 90,
+        "rank": 93,
         "dealId": "unmatched-sutaupyk-gerimas-pepsi-7up-mirinda-ar-mountain-dew-500-m-5-rusys",
         "product": "SUTAUPYK Gėrimas PEPSI, 7UP, MIRINDA ar MOUNTAIN DEW, 500 m (5 rūšys)",
         "category": "Other",
@@ -7963,7 +8031,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 91,
+        "rank": 94,
         "dealId": "unmatched-gerimas-coca-cola-sprite-ar-fanta-2-l",
         "product": "Gėrimas COCA COLA, SPRITE ar FANTA, 2 l",
         "category": "Other",
@@ -7985,7 +8053,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 92,
+        "rank": 95,
         "dealId": "unmatched-ats-krevec-uodegeles-nev-be-k-16-20-1kg",
         "product": "Atš. kreveč. uodegėlės, nev., be k.,16-20,1kg",
         "category": "Other",
@@ -8006,7 +8074,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 93,
+        "rank": 96,
         "dealId": "unmatched-figos-1-vnt",
         "product": "Figos, 1 vnt.",
         "category": "Other",
@@ -8028,19 +8096,19 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 94,
-        "dealId": "unmatched-roziu-puokste-rimi-9-vnt",
-        "product": "Rožių puokštė RIMI, 9 vnt.",
+        "rank": 97,
+        "dealId": "unmatched-roziu-puokste-rimi-9-vnt-50-cm",
+        "product": "Rožių puokštė RIMI, 9 vnt., 50 cm",
         "category": "Other",
         "store": "rimi",
-        "sourceName": "Rožių puokštė RIMI, 9 vnt.",
+        "sourceName": "Rožių puokštė RIMI, 9 vnt., 50 cm",
         "salePrice": 3.99,
         "regularPrice": 6.99,
         "pricePerUnit": 0.44,
         "pricePerUnitType": "piece",
         "discountPercent": 43,
         "validUntil": "2026-08-31",
-        "sourceUrl": "https://leidiniai.rimi.lt/2026/weekly/rimi-savaitinis-leidinys-nr-35/?Page=30",
+        "sourceUrl": "https://www.rimi.lt/e-parduotuve/lt/produktai/vaisiai-darzoves-ir-geles/geles/roziu-puokste-rimi-9-vnt-50-cm/p/815041",
         "promotionType": "LOYALTY",
         "dealScore": 51.8,
         "reasons": [
@@ -8051,7 +8119,27 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 95,
+        "rank": 98,
+        "dealId": "unmatched-pyragas-su-varske-ir-avietemis-1-kg-300-g",
+        "product": "Pyragas su varške ir avietėmis, 1 kg/300 g",
+        "category": "Other",
+        "store": "rimi",
+        "sourceName": "Pyragas su varške ir avietėmis, 1 kg/300 g",
+        "salePrice": 7.99,
+        "regularPrice": 8.99,
+        "pricePerUnit": 7.99,
+        "pricePerUnitType": "kg",
+        "discountPercent": 11,
+        "sourceUrl": "https://www.rimi.lt/e-parduotuve/lt/produktai/rimi-konditerija-ir-kulinarija/konditerijos-gaminiai/pyragai-ir-vyniotiniai/pyragas-su-varske-ir-avietemis-1-kg-300-g/p/4000683",
+        "promotionType": "SALE",
+        "dealScore": 51.5,
+        "reasons": [
+          "LOWEST_OBSERVED_PRICE"
+        ],
+        "historicalStatus": "LOWEST_OBSERVED"
+      },
+      {
+        "rank": 99,
         "dealId": "unmatched-skalbimo-kapsules-persil-discs-color-70-vnt",
         "product": "Skalbimo kapsulės PERSIL DISCS COLOR, 70 vnt.",
         "category": "Other",
@@ -8073,7 +8161,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 96,
+        "rank": 100,
         "dealId": "unmatched-smulkintas-tunas-northland-425-g",
         "product": "Smulkintas tunas NORTHLAND, 425 g",
         "category": "Other",
@@ -8096,7 +8184,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 97,
+        "rank": 101,
         "dealId": "unmatched-silikoninis-nesusokantis-kraikas-katems-pet-perfect-10-l",
         "product": "Silikoninis nesušokantis kraikas katėms PET PERFECT, 10 l",
         "category": "Other",
@@ -8118,7 +8206,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 98,
+        "rank": 102,
         "dealId": "unmatched-sauskelnes-pampers-pants-mega-pack-74-128-vnt",
         "product": "Sauskelnės PAMPERS PANTS MEGA PACK, 74-128 vnt.",
         "category": "Other",
@@ -8140,7 +8228,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 99,
+        "rank": 103,
         "dealId": "unmatched-avieciu-citrinu-ar-kakavos-skonio-sakotis-250-g",
         "product": "Aviečių, citrinų ar kakavos skonio šakotis, 250 g",
         "category": "Other",
@@ -8163,7 +8251,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 100,
+        "rank": 104,
         "dealId": "unmatched-ryziu-ar-kukuruzu-trapuciai-rimi-60-g",
         "product": "Ryžių ar kukurūzų trapučiai RIMI, 60 g",
         "category": "Other",
@@ -8186,30 +8274,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 101,
-        "dealId": "unmatched-rukyti-sprotai-aliejuje-rimi-100g-70g",
-        "product": "Rūkyti šprotai aliejuje RIMI 100G/70G",
-        "category": "Other",
-        "store": "rimi",
-        "sourceName": "Rūkyti šprotai aliejuje RIMI 100G/70G",
-        "salePrice": 1.69,
-        "regularPrice": 2.39,
-        "pricePerUnit": 16.9,
-        "pricePerUnitType": "kg",
-        "discountPercent": 29,
-        "validUntil": "2026-08-31",
-        "sourceUrl": "https://www.rimi.lt/e-parduotuve/lt/produktai/mesa-ir-zuvis-/apdorotos-zuvies-gaminiai/konservuota-zuvis-ir-juros-gerybes/rukyti-sprotai-aliejuje-rimi-100g-70g/p/815612",
-        "promotionType": "SALE",
-        "dealScore": 50.1,
-        "reasons": [
-          "GOOD_DISCOUNT",
-          "LIMITED_HISTORY",
-          "STRONG_UNIT_PRICE"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 102,
+        "rank": 105,
         "dealId": "unmatched-nealkoholinis-utenos-alaus-kokteilis-radler-0-5-l",
         "product": "Nealkoholinis UTENOS alaus kokteilis RADLER, 0,5 l",
         "category": "Other",
@@ -8231,19 +8296,19 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 103,
-        "dealId": "unmatched-nilines-tilapijos-file-rimi-1-kg",
-        "product": "Nilinės tilapijos filė RIMI, 1 kg",
+        "rank": 106,
+        "dealId": "unmatched-nil-tilapijos-file-rimi-be-od-be-k-1-kg",
+        "product": "Nil. tilapijos filė RIMI, be od., be k., 1 kg",
         "category": "Other",
         "store": "rimi",
-        "sourceName": "Nilinės tilapijos filė RIMI, 1 kg",
+        "sourceName": "Nil. tilapijos filė RIMI, be od., be k., 1 kg",
         "salePrice": 8.99,
         "regularPrice": 12.99,
         "pricePerUnit": 8.99,
         "pricePerUnitType": "kg",
         "discountPercent": 31,
         "validUntil": "2026-08-31",
-        "sourceUrl": "https://leidiniai.rimi.lt/2026/weekly/rimi-savaitinis-leidinys-nr-35/?Page=7",
+        "sourceUrl": "https://www.rimi.lt/e-parduotuve/lt/produktai/mesa-ir-zuvis-/sviezios-zuvys-ir-juru-gerybes/zuvu-file/nil-tilapijos-file-rimi-be-od-be-k-1-kg/p/814691",
         "promotionType": "SALE",
         "dealScore": 49.5,
         "reasons": [
@@ -8254,7 +8319,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 104,
+        "rank": 107,
         "dealId": "unmatched-pyragas-naujiena-1kg",
         "product": "Pyragas Naujiena, 1kg",
         "category": "Other",
@@ -8274,7 +8339,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 105,
+        "rank": 108,
         "dealId": "unmatched-elektrinis-dantu-sepetelis-philips-sonicare-1100-1-vnt",
         "product": "Elektrinis dantų šepetėlis PHILIPS SONICARE 1100, 1 vnt.",
         "category": "Other",
@@ -8296,7 +8361,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 106,
+        "rank": 109,
         "dealId": "unmatched-tamsiosios-slyvos-1-kg",
         "product": "Tamsiosios slyvos, 1 kg",
         "category": "Other",
@@ -8318,7 +8383,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 107,
+        "rank": 110,
         "dealId": "unmatched-elektrinis-dantu-sepetelis-philips-sonicare-1100-1-vnt",
         "product": "Elektrinis dantų šepetėlis PHILIPS SONICARE 1100, 1 vnt.",
         "category": "Other",
@@ -8340,29 +8405,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 108,
-        "dealId": "unmatched-atit-jurinis-eserys-rimi-skr-1kg",
-        "product": "Atit. jūrinis ešerys RIMI, skr., 1kg",
-        "category": "Other",
-        "store": "rimi",
-        "sourceName": "Atit. jūrinis ešerys RIMI, skr., 1kg",
-        "salePrice": 6.99,
-        "regularPrice": 9.99,
-        "pricePerUnit": 6.99,
-        "pricePerUnitType": "kg",
-        "discountPercent": 30,
-        "sourceUrl": "https://www.rimi.lt/e-parduotuve/lt/produktai/mesa-ir-zuvis-/sviezios-zuvys-ir-juru-gerybes/visa-zuvis/atit-jurinis-eserys-rimi-skr-1kg/p/812942",
-        "promotionType": "SALE",
-        "dealScore": 47.1,
-        "reasons": [
-          "GOOD_DISCOUNT",
-          "LIMITED_HISTORY",
-          "STRONG_UNIT_PRICE"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 109,
+        "rank": 111,
         "dealId": "unmatched-plautos-morkos-1-kg",
         "product": "Plautos morkos, 1 kg",
         "category": "Other",
@@ -8384,7 +8427,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 110,
+        "rank": 112,
         "dealId": "unmatched-konservuotu-ananasu-gabaliukai-ar-griezineliai-sirupe-rimi-567-g",
         "product": "Konservuotų ananasų gabaliukai ar griežinėliai sirupe RIMI, 567 g",
         "category": "Other",
@@ -8406,7 +8449,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 111,
+        "rank": 113,
         "dealId": "unmatched-obuoliai-magic-star-1-kg",
         "product": "Obuoliai MAGIC STAR, 1 kg",
         "category": "Other",
@@ -8428,7 +8471,29 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 112,
+        "rank": 114,
+        "dealId": "unmatched-sviestinis-mociutes-sakotis-1-kg",
+        "product": "Sviestinis MOČIUTĖS šakotis, 1 kg",
+        "category": "Other",
+        "store": "rimi",
+        "sourceName": "Sviestinis MOČIUTĖS šakotis, 1 kg",
+        "salePrice": 17.99,
+        "regularPrice": 23.99,
+        "pricePerUnit": 17.99,
+        "pricePerUnitType": "kg",
+        "discountPercent": 25,
+        "sourceUrl": "https://www.rimi.lt/e-parduotuve/lt/produktai/rimi-konditerija-ir-kulinarija/konditerijos-gaminiai/sakociai/sviestinis-mociutes-sakotis-1-kg/p/1011348",
+        "promotionType": "SALE",
+        "dealScore": 44.8,
+        "reasons": [
+          "GOOD_DISCOUNT",
+          "LIMITED_HISTORY",
+          "STRONG_UNIT_PRICE"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 115,
         "dealId": "unmatched-sutaupyk-sunu-edalas-nutribalance-4x100-g",
         "product": "SUTAUPYK Šunų ėdalas NUTRIBALANCE, 4x100 g",
         "category": "Other",
@@ -8450,7 +8515,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 113,
+        "rank": 116,
         "dealId": "unmatched-kardelis-75-cm-1-vnt",
         "product": "Kardelis, 75 cm, 1 vnt.",
         "category": "Other",
@@ -8472,7 +8537,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 114,
+        "rank": 117,
         "dealId": "unmatched-kalakutu-krutineles-file-pjausniai-rimi-a-klase-360-g",
         "product": "Kalakutų krūtinėlės filė pjausniai RIMI, A klasė, 360 g",
         "category": "Other",
@@ -8495,7 +8560,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 115,
+        "rank": 118,
         "dealId": "unmatched-kietasis-suris-parnidzio-38-rieb-6-men-200-g",
         "product": "PARNIDŽIO Hard Cheese",
         "category": "Other",
@@ -8518,7 +8583,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 116,
+        "rank": 119,
         "dealId": "unmatched-zaliosios-cukinijos-1-kg",
         "product": "Žaliosios cukinijos, 1 kg",
         "category": "Other",
@@ -8540,7 +8605,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 117,
+        "rank": 120,
         "dealId": "unmatched-vytinta-desra-su-baltuoju-pelesiu-espetec-fuet-sola-150g",
         "product": "Vytinta dešra su baltuoju pelėsiu ESPETEC FUET SOLA, 150g",
         "category": "Other",
@@ -8563,7 +8628,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 118,
+        "rank": 121,
         "dealId": "unmatched-gerimas-schweppes-1-l",
         "product": "Gėrimas SCHWEPPES, 1 l",
         "category": "Other",
@@ -8585,7 +8650,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 119,
+        "rank": 122,
         "dealId": "unmatched-raudonos-saldziosios-paprikos-1-kg",
         "product": "Raudonos saldžiosios paprikos, 1 kg",
         "category": "Other",
@@ -8607,7 +8672,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 120,
+        "rank": 123,
         "dealId": "unmatched-gerimas-kubus-play-400-ml",
         "product": "Gėrimas KUBUŠ PLAY, 400 ml",
         "category": "Other",
@@ -8629,7 +8694,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 121,
+        "rank": 124,
         "dealId": "unmatched-gerimas-tervete-1-5-l",
         "product": "Gėrimas TÉRVETE, 1,5 l",
         "category": "Other",
@@ -8651,7 +8716,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 122,
+        "rank": 125,
         "dealId": "unmatched-suktinukas-su-brinzos-suriu-ir-spinatais-rollini-95-g",
         "product": "Suktinukas su brinzos sūriu ir špinatais ROLLINI, 95 g",
         "category": "Other",
@@ -8673,7 +8738,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 123,
+        "rank": 126,
         "dealId": "unmatched-plikyta-duona-su-mieziais-ir-kanapiu-seklomis-680-g",
         "product": "Plikyta duona su miežiais ir kanapių sėklomis, 680 g",
         "category": "Other",
@@ -8695,7 +8760,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 124,
+        "rank": 127,
         "dealId": "unmatched-avietes-rimi-225-g",
         "product": "Avietės RIMI, 225 g",
         "category": "Other",
@@ -8717,29 +8782,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 125,
-        "dealId": "unmatched-vistienos-nuggets-su-saldziarugsciu-padazu-200-g",
-        "product": "Vištienos NUGGETS su saldžiarūgščiu padažu, 200 g",
-        "category": "Other",
-        "store": "rimi",
-        "sourceName": "Vištienos NUGGETS su saldžiarūgščiu padažu, 200 g",
-        "salePrice": 2.79,
-        "regularPrice": 3.49,
-        "pricePerUnit": 13.95,
-        "pricePerUnitType": "kg",
-        "discountPercent": 20,
-        "validUntil": "2026-08-31",
-        "sourceUrl": "https://leidiniai.rimi.lt/2026/weekly/rimi-savaitinis-leidinys-nr-35/?Page=9",
-        "promotionType": "SALE",
-        "dealScore": 36.5,
-        "reasons": [
-          "LIMITED_HISTORY",
-          "STRONG_UNIT_PRICE"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 126,
+        "rank": 128,
         "dealId": "unmatched-kruasanas-7-days-60-g",
         "product": "Kruasanas 7 DAYS, 60 g",
         "category": "Other",
@@ -8761,7 +8804,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 127,
+        "rank": 129,
         "dealId": "unmatched-humusas-200-g",
         "product": "Humusas, 200 g",
         "category": "Other",
@@ -8783,7 +8826,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 128,
+        "rank": 130,
         "dealId": "unmatched-sumustinis-mega-245-ar-255-g",
         "product": "Sumuštinis MEGA, 245 ar 255 g",
         "category": "Other",
@@ -8805,7 +8848,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 129,
+        "rank": 131,
         "dealId": "unmatched-sumustinis-mega-245-ar-255-g",
         "product": "Sumuštinis MEGA, 245 ar 255 g",
         "category": "Other",
@@ -8827,7 +8870,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 130,
+        "rank": 132,
         "dealId": "unmatched-rambyno-lydytas-tepamasis-surelis-175-g",
         "product": "RAMBYNO Processed Spread Cheese Snack",
         "category": "Other",
@@ -8849,28 +8892,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 131,
-        "dealId": "unmatched-kavos-kapsules-lor-mattinata-10-vnt-52-g",
-        "product": "Kavos kapsulės LOR MATTINATA, 10 vnt. 52 g",
-        "category": "Other",
-        "store": "rimi",
-        "sourceName": "Kavos kapsulės LOR MATTINATA, 10 vnt. 52 g",
-        "salePrice": 3.79,
-        "regularPrice": 4.99,
-        "pricePerUnit": 0.38,
-        "pricePerUnitType": "piece",
-        "discountPercent": 24,
-        "validUntil": "2026-08-31",
-        "sourceUrl": "https://www.rimi.lt/e-parduotuve/lt/produktai/bakaleja/kava-ir-kakava/kavos-kapsules/kavos-kapsules-lor-mattinata-10-vnt-52-g/p/186428",
-        "promotionType": "SALE",
-        "dealScore": 32.7,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 132,
+        "rank": 133,
         "dealId": "unmatched-silikoninis-nesusokantis-kraikas-katems-pet-perfect-10-l",
         "product": "Silikoninis nesušokantis kraikas katėms PET PERFECT, 10 l",
         "category": "Other",
@@ -8891,7 +8913,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 133,
+        "rank": 134,
         "dealId": "unmatched-fas-obuoliai-gala-must-1-kl-1kg",
         "product": "Fas. obuoliai GALA MUST,1 kl.,1kg",
         "category": "Other",
@@ -8905,26 +8927,6 @@
         "sourceUrl": "https://www.rimi.lt/e-parduotuve/lt/produktai/vaisiai-darzoves-ir-geles/vaisiai-ir-uogos/obuoliai-/fas-obuoliai-gala-must-1-kl-1kg/p/219161",
         "promotionType": "SALE",
         "dealScore": 25,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 134,
-        "dealId": "unmatched-pyragas-su-varske-ir-avietemis-1-kg-300-g",
-        "product": "Pyragas su varške ir avietėmis, 1 kg/300 g",
-        "category": "Other",
-        "store": "rimi",
-        "sourceName": "Pyragas su varške ir avietėmis, 1 kg/300 g",
-        "salePrice": 7.99,
-        "regularPrice": 8.99,
-        "pricePerUnit": 7.99,
-        "pricePerUnitType": "kg",
-        "discountPercent": 11,
-        "sourceUrl": "https://www.rimi.lt/e-parduotuve/lt/produktai/rimi-konditerija-ir-kulinarija/konditerijos-gaminiai/pyragai-ir-vyniotiniai/pyragas-su-varske-ir-avietemis-1-kg-300-g/p/4000683",
-        "promotionType": "SALE",
-        "dealScore": 21.5,
         "reasons": [
           "LIMITED_HISTORY"
         ],
