@@ -1,6 +1,6 @@
 {
   "store": "rimi",
-  "collectedAt": "2026-08-30T11:59:22.949Z",
+  "collectedAt": "2026-08-30T19:54:09.249Z",
   "source": "https://www.rimi.lt/asortimentas/rimi-savaitinis-leidinys",
   "offers": [
     {
@@ -2038,6 +2038,28 @@
       "confidence": "HIGH",
       "externalId": "949228",
       "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_limit,dpr_auto,f_webp,h_360,q_auto:good,w_360/d_ecommerce:backend-fallback.png/MAT_949228_PCE_LT"
+    },
+    {
+      "externalId": "965073",
+      "name": "Abrikosai 40-50+ mm, 1 kl., 1 kg",
+      "salePrice": 1.99,
+      "regularPrice": 2.99,
+      "discountPercent": 33,
+      "quantity": 1,
+      "unit": "kg",
+      "pricePerUnit": 1.99,
+      "pricePerUnitType": "kg",
+      "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_limit,dpr_auto,f_webp,h_360,q_auto:good,w_360/d_ecommerce:backend-fallback.png/MAT_965073_KGM_LT",
+      "sourceUrl": "https://www.rimi.lt/e-parduotuve/lt/produktai/vaisiai-darzoves-ir-geles/vaisiai-ir-uogos/kaulavaisiai/abrikosai-40-50-mm-1-kl-1-kg/p/965073",
+      "promotionType": "SALE",
+      "sourceType": "web",
+      "sourcePlatform": "rimi",
+      "channel": "physical",
+      "confidence": "HIGH",
+      "promotionSource": "eshop",
+      "promotionActive": true,
+      "onlineAvailable": true,
+      "physicalStoreAvailability": "unknown"
     },
     {
       "externalId": "967800",

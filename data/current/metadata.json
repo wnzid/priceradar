@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-30T11:59:31.712Z",
+  "generatedAt": "2026-08-30T19:54:18.184Z",
   "stores": {
     "rimi": {
       "status": "success",
-      "offers": 174
+      "offers": 175
     },
     "maxima": {
       "status": "success",
       "offers": 105
     }
   },
-  "totalOffers": 279,
-  "normalizedProducts": 265,
+  "totalOffers": 280,
+  "normalizedProducts": 266,
   "translation": {
-    "totalOffers": 279,
+    "totalOffers": 280,
     "canonical": 25,
     "automatic": 28,
-    "untranslated": 226,
-    "englishCoveragePercent": 19
+    "untranslated": 227,
+    "englishCoveragePercent": 18.9
   },
   "exclusions": {
     "pork": {
