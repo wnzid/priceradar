@@ -1,6 +1,6 @@
 {
   "store": "maxima",
-  "collectedAt": "2026-09-01T11:45:04.726Z",
+  "collectedAt": "2026-09-02T19:52:52.013Z",
   "source": "https://www.maxima.lt/pasiulymai",
   "offers": [
     {
@@ -2535,7 +2535,7 @@
       "channel": "physical"
     },
     {
-      "externalId": "2026aciu_36-48-1",
+      "externalId": "2026aciu_36-50-1",
       "name": "Nuo KETVIRTADIENIO iki PIRMADIENIO! Bananai 1 kg",
       "salePrice": 0.79,
       "regularPrice": 1.15,
@@ -2544,17 +2544,17 @@
       "unit": "kg",
       "pricePerUnit": 0.79,
       "pricePerUnitType": "kg",
-      "sourceUrl": "https://viewer.ipaper.io/maxima/kk-savaite/2026aciu_36?Page=48",
+      "sourceUrl": "https://viewer.ipaper.io/maxima/kk-savaite/2026aciu_36?Page=50",
       "promotionType": "SALE",
       "sourceType": "leaflet",
       "publicationId": "2026aciu_36",
-      "page": 48,
+      "page": 50,
       "confidence": "HIGH",
       "sourcePlatform": "maxima",
       "channel": "physical"
     },
     {
-      "externalId": "2026aciu_36-48-2",
+      "externalId": "2026aciu_36-50-2",
       "name": "Brokolis 1 vnt.",
       "salePrice": 1.39,
       "regularPrice": 1.65,
@@ -2563,17 +2563,17 @@
       "unit": "pcs",
       "pricePerUnit": 1.39,
       "pricePerUnitType": "piece",
-      "sourceUrl": "https://viewer.ipaper.io/maxima/kk-savaite/2026aciu_36?Page=48",
+      "sourceUrl": "https://viewer.ipaper.io/maxima/kk-savaite/2026aciu_36?Page=50",
       "promotionType": "SALE",
       "sourceType": "leaflet",
       "publicationId": "2026aciu_36",
-      "page": 48,
+      "page": 50,
       "confidence": "HIGH",
       "sourcePlatform": "maxima",
       "channel": "physical"
     },
     {
-      "externalId": "2026aciu_36-48-4",
+      "externalId": "2026aciu_36-50-4",
       "name": "Šviežia viščiukų broilerių filė kepsniams be antibiotikų WELL DONE 400 g 1 kg – 8,73 €",
       "salePrice": 3.49,
       "regularPrice": 4.99,
@@ -2582,17 +2582,17 @@
       "unit": "g",
       "pricePerUnit": 8.72,
       "pricePerUnitType": "kg",
-      "sourceUrl": "https://viewer.ipaper.io/maxima/kk-savaite/2026aciu_36?Page=48",
+      "sourceUrl": "https://viewer.ipaper.io/maxima/kk-savaite/2026aciu_36?Page=50",
       "promotionType": "SALE",
       "sourceType": "leaflet",
       "publicationId": "2026aciu_36",
-      "page": 48,
+      "page": 50,
       "confidence": "HIGH",
       "sourcePlatform": "maxima",
       "channel": "physical"
     },
     {
-      "externalId": "2026aciu_36-48-5",
+      "externalId": "2026aciu_36-50-5",
       "name": "rieb., 400 g 1 kg – 7,98 €",
       "salePrice": 3.19,
       "regularPrice": 3.99,
@@ -2601,11 +2601,11 @@
       "unit": "g",
       "pricePerUnit": 7.97,
       "pricePerUnitType": "kg",
-      "sourceUrl": "https://viewer.ipaper.io/maxima/kk-savaite/2026aciu_36?Page=48",
+      "sourceUrl": "https://viewer.ipaper.io/maxima/kk-savaite/2026aciu_36?Page=50",
       "promotionType": "SALE",
       "sourceType": "leaflet",
       "publicationId": "2026aciu_36",
-      "page": 48,
+      "page": 50,
       "confidence": "HIGH",
       "sourcePlatform": "maxima",
       "channel": "physical"

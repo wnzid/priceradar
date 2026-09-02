@@ -81,7 +81,7 @@
           "absoluteSaving": 2,
           "unitSaving": 0.29,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 40.3,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -229,7 +229,7 @@
           "absoluteSaving": 27.5,
           "unitSaving": 27.5,
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 27.49,
           "historicalMedian": 27.49,
           "historicalHigh": 27.49,
@@ -288,7 +288,7 @@
           "absoluteSaving": 2.2,
           "unitSaving": 12.94,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 65.8,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -337,7 +337,7 @@
           "absoluteSaving": 50,
           "unitSaving": 50,
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 49.99,
           "historicalMedian": 49.99,
           "historicalHigh": 49.99,
@@ -489,54 +489,6 @@
     "primaryImageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_limit,dpr_auto,f_webp,h_360,q_auto:good,w_360/d_ecommerce:backend-fallback.png/MAT_981606_PCE_LT"
   },
   {
-    "id": "unmatched-ats-jautienos-sonkauliai-grynuoliai-1-kg",
-    "name": "Atš. jautienos šonkauliai GRYNUOLIAI, 1 kg",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "4006691",
-        "name": "Atš. jautienos šonkauliai GRYNUOLIAI, 1 kg",
-        "salePrice": 7.19,
-        "regularPrice": 8.99,
-        "discountPercent": 20,
-        "quantity": 1,
-        "unit": "kg",
-        "pricePerUnit": 7.19,
-        "pricePerUnitType": "kg",
-        "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_limit,dpr_auto,f_webp,h_360,q_auto:good,w_360/d_ecommerce:backend-fallback.png/MAT_4006691_KGM_LT",
-        "sourceUrl": "https://www.rimi.lt/e-parduotuve/lt/produktai/mesa-ir-zuvis-/sviezia-mesa/jautiena/ats-jautienos-sonkauliai-grynuoliai-1-kg/p/4006691",
-        "promotionType": "LOYALTY",
-        "sourceType": "web",
-        "sourcePlatform": "rimi",
-        "channel": "physical",
-        "confidence": "HIGH",
-        "promotionSource": "eshop",
-        "promotionActive": true,
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "store": "rimi",
-        "sourceName": "Atš. jautienos šonkauliai GRYNUOLIAI, 1 kg",
-        "displayName": "Atš. jautienos šonkauliai GRYNUOLIAI, 1 kg",
-        "displayNameSource": "UNTRANSLATED",
-        "intelligence": {
-          "advertisedDiscountPercent": 20,
-          "absoluteSaving": 1.8,
-          "unitSaving": 1.8,
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 33.7,
-          "reasons": [
-            "LIMITED_HISTORY",
-            "LOYALTY_REQUIRED"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_limit,dpr_auto,f_webp,h_360,q_auto:good,w_360/d_ecommerce:backend-fallback.png/MAT_4006691_KGM_LT"
-  },
-  {
     "id": "unmatched-atsaldyta-jautienos-kulnine-1-kg",
     "name": "Atšaldyta jautienos kulninė,1 kg",
     "category": "Other",
@@ -572,7 +524,7 @@
           "absoluteSaving": 1.7,
           "unitSaving": 1.7,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 33.5,
           "reasons": [
             "LIMITED_HISTORY",
@@ -620,7 +572,7 @@
           "absoluteSaving": 2.8,
           "unitSaving": 2.8,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 35.5,
           "reasons": [
             "LIMITED_HISTORY",
@@ -669,7 +621,7 @@
           "absoluteSaving": 3.2,
           "unitSaving": 3.2,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 36.1,
           "reasons": [
             "LIMITED_HISTORY",
@@ -718,7 +670,7 @@
           "absoluteSaving": 3,
           "unitSaving": 3,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 35.8,
           "reasons": [
             "LIMITED_HISTORY",
@@ -773,7 +725,7 @@
           "absoluteSaving": 0.4,
           "unitSaving": 2.67,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 40.9,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -822,7 +774,7 @@
           "absoluteSaving": 2.6,
           "unitSaving": 2.6,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 35.2,
           "reasons": [
             "LIMITED_HISTORY",
@@ -923,7 +875,7 @@
           "absoluteSaving": 5,
           "unitSaving": 5,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
+          "historicalObservations": 1,
           "dealScore": 52.9,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -1024,7 +976,7 @@
           "absoluteSaving": 0.5,
           "unitSaving": 0.5,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 35.6,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -1079,7 +1031,7 @@
           "absoluteSaving": 0.74,
           "unitSaving": 2.96,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 48.1,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -1172,7 +1124,7 @@
           "absoluteSaving": 8.8,
           "unitSaving": 8.8,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 63.7,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -1213,7 +1165,7 @@
           "absoluteSaving": 9.2,
           "unitSaving": 9.2,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 63.9,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -1262,7 +1214,7 @@
           "absoluteSaving": 0.3,
           "unitSaving": 6,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 39.2,
           "reasons": [
             "LIMITED_HISTORY",
@@ -1284,7 +1236,7 @@
     ],
     "offers": [
       {
-        "externalId": "2026aciu_36-48-1",
+        "externalId": "2026aciu_36-50-1",
         "name": "Nuo KETVIRTADIENIO iki PIRMADIENIO! Bananai 1 kg",
         "salePrice": 0.79,
         "regularPrice": 1.15,
@@ -1293,11 +1245,11 @@
         "unit": "kg",
         "pricePerUnit": 0.79,
         "pricePerUnitType": "kg",
-        "sourceUrl": "https://viewer.ipaper.io/maxima/kk-savaite/2026aciu_36?Page=48",
+        "sourceUrl": "https://viewer.ipaper.io/maxima/kk-savaite/2026aciu_36?Page=50",
         "promotionType": "SALE",
         "sourceType": "leaflet",
         "publicationId": "2026aciu_36",
-        "page": 48,
+        "page": 50,
         "confidence": "HIGH",
         "sourcePlatform": "maxima",
         "channel": "physical",
@@ -1311,7 +1263,7 @@
           "absoluteSaving": 0.36,
           "unitSaving": 0.36,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 0,
           "dealScore": 41.7,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -1362,7 +1314,7 @@
           "advertisedDiscountPercent": 30,
           "absoluteSaving": 0.5,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 41.2,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -1410,7 +1362,7 @@
           "absoluteSaving": 0.4,
           "unitSaving": 0.01,
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 0.01,
           "historicalMedian": 0.01,
           "historicalHigh": 0.01,
@@ -1462,7 +1414,7 @@
           "absoluteSaving": 0.3,
           "unitSaving": 3.75,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 27.8,
           "reasons": [
             "LIMITED_HISTORY",
@@ -1511,7 +1463,7 @@
           "absoluteSaving": 0.56,
           "unitSaving": 1.51,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 39.8,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -1555,7 +1507,7 @@
           "advertisedDiscountPercent": 50,
           "absoluteSaving": 1.5,
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 1.49,
           "historicalMedian": 1.49,
           "historicalHigh": 1.49,
@@ -1608,7 +1560,7 @@
           "absoluteSaving": 0.51,
           "unitSaving": 4.08,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 37.3,
           "reasons": [
             "LIMITED_HISTORY",
@@ -1657,7 +1609,7 @@
           "absoluteSaving": 0.5,
           "unitSaving": 1.51,
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 4.52,
           "historicalMedian": 4.52,
           "historicalHigh": 4.52,
@@ -1681,7 +1633,7 @@
     "aliases": [],
     "offers": [
       {
-        "externalId": "2026aciu_36-48-2",
+        "externalId": "2026aciu_36-50-2",
         "name": "Brokolis 1 vnt.",
         "salePrice": 1.39,
         "regularPrice": 1.65,
@@ -1690,11 +1642,11 @@
         "unit": "pcs",
         "pricePerUnit": 1.39,
         "pricePerUnitType": "piece",
-        "sourceUrl": "https://viewer.ipaper.io/maxima/kk-savaite/2026aciu_36?Page=48",
+        "sourceUrl": "https://viewer.ipaper.io/maxima/kk-savaite/2026aciu_36?Page=50",
         "promotionType": "SALE",
         "sourceType": "leaflet",
         "publicationId": "2026aciu_36",
-        "page": 48,
+        "page": 50,
         "confidence": "HIGH",
         "sourcePlatform": "maxima",
         "channel": "physical",
@@ -1707,7 +1659,7 @@
           "absoluteSaving": 0.26,
           "unitSaving": 0.26,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 0,
           "dealScore": 23.3,
           "reasons": [
             "LIMITED_HISTORY"
@@ -1814,7 +1766,7 @@
           "absoluteSaving": 1.7,
           "unitSaving": 8.5,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 63.5,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -1859,7 +1811,7 @@
           "absoluteSaving": 1.7,
           "unitSaving": 8.5,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 63.5,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -1906,7 +1858,7 @@
           "absoluteSaving": 0.8,
           "unitSaving": 4,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 42.8,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -1955,7 +1907,7 @@
           "absoluteSaving": 0.4,
           "unitSaving": 1.16,
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 3.74,
           "historicalMedian": 3.74,
           "historicalHigh": 3.74,
@@ -2058,7 +2010,7 @@
           "absoluteSaving": 0.26,
           "unitSaving": 0.79,
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 3.91,
           "historicalMedian": 3.91,
           "historicalHigh": 3.91,
@@ -2105,7 +2057,7 @@
         "displayNameSource": "AUTO",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 1.59,
           "historicalMedian": 1.59,
           "historicalHigh": 1.59,
@@ -2164,7 +2116,7 @@
           "absoluteSaving": 1.7,
           "unitSaving": 22.66,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 57.7,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -2317,7 +2269,7 @@
           "absoluteSaving": 4.5,
           "unitSaving": 90,
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 165.8,
           "historicalMedian": 165.8,
           "historicalHigh": 165.8,
@@ -2371,7 +2323,7 @@
           "absoluteSaving": 2,
           "unitSaving": 2,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 56.6,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -2415,7 +2367,7 @@
         "displayNameSource": "AUTO",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 2,
           "reasons": [
             "LIMITED_HISTORY",
@@ -2463,7 +2415,7 @@
           "absoluteSaving": 0.5,
           "unitSaving": 6.1,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 44.9,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -2508,7 +2460,7 @@
         "displayNameSource": "AUTO",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 24.92,
           "historicalMedian": 24.92,
           "historicalHigh": 24.92,
@@ -2604,7 +2556,7 @@
           "absoluteSaving": 2.5,
           "unitSaving": 2.5,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 57.5,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -2653,7 +2605,7 @@
           "absoluteSaving": 5,
           "unitSaving": 5,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 60.8,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -2668,12 +2620,12 @@
   },
   {
     "id": "unmatched-dvistiebe-orchideja-1-vnt",
-    "name": "Dvistiebė orchidėja, 1 vnt.",
+    "name": "Dvistiebė orchidėja, 1 vnt",
     "category": "Other",
     "aliases": [],
     "offers": [
       {
-        "name": "Dvistiebė orchidėja, 1 vnt.",
+        "name": "Dvistiebė orchidėja, 1 vnt",
         "salePrice": 5.99,
         "regularPrice": 9.99,
         "discountPercent": 40,
@@ -2683,7 +2635,7 @@
         "pricePerUnitType": "piece",
         "validFrom": "2026-09-01",
         "validUntil": "2026-09-07",
-        "sourceUrl": "https://leidiniai.rimi.lt/2026/weekly/rimi-savaitinis-leidinys-nr-36/?Page=28",
+        "sourceUrl": "https://www.rimi.lt/e-parduotuve/lt/produktai/vaisiai-darzoves-ir-geles/geles/dvistiebe-orchideja-1-vnt/p/903734",
         "leafletSourceUrl": "https://leidiniai.rimi.lt/2026/weekly/rimi-savaitinis-leidinys-nr-36/?Page=28",
         "promotionType": "SALE",
         "sourceType": "leaflet",
@@ -2693,13 +2645,15 @@
         "leafletTitle": "„Rimi“ savaitinis leidinys Nr. 36 (2026.09.01 - 2026.09.07)",
         "promotionSource": "leaflet",
         "promotionActive": true,
-        "onlineAvailable": null,
+        "onlineAvailable": true,
         "physicalStoreAvailability": "unknown",
         "page": 28,
         "confidence": "HIGH",
+        "externalId": "903734",
+        "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_limit,dpr_auto,f_webp,h_360,q_auto:good,w_360/d_ecommerce:backend-fallback.png/MAT_903734_PCE_LT",
         "store": "rimi",
-        "sourceName": "Dvistiebė orchidėja, 1 vnt.",
-        "displayName": "Dvistiebė orchidėja, 1 vnt.",
+        "sourceName": "Dvistiebė orchidėja, 1 vnt",
+        "displayName": "Dvistiebė orchidėja, 1 vnt",
         "displayNameSource": "UNTRANSLATED",
         "intelligence": {
           "advertisedDiscountPercent": 40,
@@ -2715,7 +2669,8 @@
           "comparisonReasons": []
         }
       }
-    ]
+    ],
+    "primaryImageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_limit,dpr_auto,f_webp,h_360,q_auto:good,w_360/d_ecommerce:backend-fallback.png/MAT_903734_PCE_LT"
   },
   {
     "id": "unmatched-dziovintas-dvaro-varskes-suris-20-1-kg",
@@ -2753,7 +2708,7 @@
           "absoluteSaving": 6.2,
           "unitSaving": 6.2,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 40.5,
           "reasons": [
             "LIMITED_HISTORY",
@@ -2809,7 +2764,7 @@
           "absoluteSaving": 1.3,
           "unitSaving": 3.24,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 47.4,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -3022,7 +2977,7 @@
           "absoluteSaving": 10.4,
           "unitSaving": 6.12,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 61.8,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -3072,7 +3027,7 @@
           "absoluteSaving": 3,
           "unitSaving": 0.6,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 35.9,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -3128,7 +3083,7 @@
           "absoluteSaving": 0.4,
           "unitSaving": 0.27,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 33.4,
           "reasons": [
             "LIMITED_HISTORY"
@@ -3224,7 +3179,7 @@
           "advertisedDiscountPercent": 11,
           "absoluteSaving": 0.3,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 18.9,
           "reasons": [
             "LIMITED_HISTORY",
@@ -3385,7 +3340,7 @@
           "absoluteSaving": 0.5,
           "unitSaving": 0.5,
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 0.79,
           "historicalMedian": 12.99,
           "historicalHigh": 12.99,
@@ -3437,7 +3392,7 @@
           "absoluteSaving": 9,
           "unitSaving": 9,
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 12.99,
           "historicalMedian": 24.94,
           "historicalHigh": 24.94,
@@ -3482,7 +3437,7 @@
           "absoluteSaving": 4,
           "unitSaving": 4,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 40.5,
           "reasons": [
             "LIMITED_HISTORY",
@@ -3535,7 +3490,7 @@
           "absoluteSaving": 0.5,
           "unitSaving": 0.5,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
+          "historicalObservations": 1,
           "dealScore": 52.4,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -3580,7 +3535,7 @@
           "absoluteSaving": 0.5,
           "unitSaving": 0.5,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 52.4,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -3628,7 +3583,7 @@
           "absoluteSaving": 1.8,
           "unitSaving": 1.8,
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 3.49,
           "historicalMedian": 3.49,
           "historicalHigh": 3.49,
@@ -3681,7 +3636,7 @@
           "absoluteSaving": 0.66,
           "unitSaving": 0.47,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 29.8,
           "reasons": [
             "LIMITED_HISTORY",
@@ -3729,7 +3684,7 @@
           "absoluteSaving": 1.1,
           "unitSaving": 0.55,
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 0.95,
           "historicalMedian": 0.95,
           "historicalHigh": 0.95,
@@ -3782,7 +3737,7 @@
           "absoluteSaving": 0.94,
           "unitSaving": 0.63,
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 0.9,
           "historicalMedian": 0.9,
           "historicalHigh": 0.9,
@@ -3938,7 +3893,7 @@
           "absoluteSaving": 0.6,
           "unitSaving": 3.24,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 39.5,
           "reasons": [
             "LIMITED_HISTORY",
@@ -3986,12 +3941,16 @@
           "advertisedDiscountPercent": 25,
           "absoluteSaving": 1,
           "unitSaving": 1,
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 2,
-          "dealScore": 37.3,
+          "historicalStatus": "LOWEST_OBSERVED",
+          "historicalObservations": 3,
+          "historicalLow": 2.99,
+          "historicalMedian": 2.99,
+          "historicalHigh": 3.29,
+          "percentBelowHistoricalMedian": 0,
+          "dealScore": 67.3,
           "reasons": [
             "GOOD_DISCOUNT",
-            "LIMITED_HISTORY",
+            "LOWEST_OBSERVED_PRICE",
             "LOYALTY_REQUIRED"
           ],
           "comparisonReasons": []
@@ -4182,7 +4141,7 @@
           "absoluteSaving": 0.1,
           "unitSaving": 2.22,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 34.5,
           "reasons": [
             "LIMITED_HISTORY",
@@ -4226,7 +4185,7 @@
         "displayNameSource": "AUTO",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 7.8,
           "historicalMedian": 7.8,
           "historicalHigh": 7.8,
@@ -4278,7 +4237,7 @@
           "absoluteSaving": 0.8,
           "unitSaving": 0.8,
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 2.49,
           "historicalMedian": 2.49,
           "historicalHigh": 2.49,
@@ -4330,7 +4289,7 @@
           "absoluteSaving": 0.2,
           "unitSaving": 3.33,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 37.4,
           "reasons": [
             "LIMITED_HISTORY",
@@ -4374,7 +4333,7 @@
         "displayNameSource": "UNTRANSLATED",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 2,
           "reasons": [
             "LIMITED_HISTORY",
@@ -4481,7 +4440,7 @@
           "absoluteSaving": 7,
           "unitSaving": 15.56,
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 15.53,
           "historicalMedian": 18.76,
           "historicalHigh": 18.76,
@@ -4533,7 +4492,7 @@
           "absoluteSaving": 7.3,
           "unitSaving": 29.2,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 70,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -4672,7 +4631,7 @@
           "absoluteSaving": 0.3,
           "unitSaving": 4.16,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 34,
           "reasons": [
             "LIMITED_HISTORY",
@@ -4762,7 +4721,7 @@
           "absoluteSaving": 0.6,
           "unitSaving": 0.6,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 37.1,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -4810,7 +4769,7 @@
           "absoluteSaving": 1.8,
           "unitSaving": 1.8,
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 3.29,
           "historicalMedian": 3.29,
           "historicalHigh": 3.29,
@@ -4964,7 +4923,7 @@
           "absoluteSaving": 2,
           "unitSaving": 5,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 46.1,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -5013,7 +4972,7 @@
           "absoluteSaving": 0.4,
           "unitSaving": 4,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 32.7,
           "reasons": [
             "LIMITED_HISTORY",
@@ -5061,7 +5020,7 @@
           "advertisedDiscountPercent": 19,
           "absoluteSaving": 0.4,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 28.4,
           "reasons": [
             "LIMITED_HISTORY",
@@ -5161,7 +5120,7 @@
           "absoluteSaving": 0.3,
           "unitSaving": 0.6,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 20.2,
           "reasons": [
             "LIMITED_HISTORY",
@@ -5260,7 +5219,7 @@
           "absoluteSaving": 1,
           "unitSaving": 3.33,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 36.3,
           "reasons": [
             "LIMITED_HISTORY",
@@ -5309,7 +5268,7 @@
           "absoluteSaving": 0.64,
           "unitSaving": 3.2,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 41.7,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -5359,7 +5318,7 @@
           "absoluteSaving": 0.5,
           "unitSaving": 4.76,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 43.6,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -5519,7 +5478,7 @@
           "absoluteSaving": 14,
           "unitSaving": 14,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 66.2,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -5575,7 +5534,7 @@
           "absoluteSaving": 10,
           "unitSaving": 0.21,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 51.1,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -5623,7 +5582,7 @@
           "absoluteSaving": 0.6,
           "unitSaving": 2.5,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 40.6,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -5724,7 +5683,7 @@
           "absoluteSaving": 0.8,
           "unitSaving": 7.27,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 58.2,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -5818,7 +5777,7 @@
           "absoluteSaving": 0.4,
           "unitSaving": 1.66,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 30,
           "reasons": [
             "LIMITED_HISTORY",
@@ -5866,7 +5825,7 @@
           "absoluteSaving": 0.26,
           "unitSaving": 0.54,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 30.1,
           "reasons": [
             "LIMITED_HISTORY",
@@ -5955,7 +5914,7 @@
           "absoluteSaving": 1.5,
           "unitSaving": 1.5,
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 3.49,
           "historicalMedian": 3.49,
           "historicalHigh": 3.49,
@@ -6056,7 +6015,7 @@
           "absoluteSaving": 1,
           "unitSaving": 0.4,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 29.5,
           "reasons": [
             "LIMITED_HISTORY"
@@ -6144,7 +6103,7 @@
           "absoluteSaving": 0.1,
           "unitSaving": 1.39,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 23.7,
           "reasons": [
             "LIMITED_HISTORY",
@@ -6192,7 +6151,7 @@
           "absoluteSaving": 11,
           "unitSaving": 3.67,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 59.2,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -6241,7 +6200,7 @@
           "absoluteSaving": 0.8,
           "unitSaving": 0.8,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 44.5,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -6436,7 +6395,7 @@
           "absoluteSaving": 0.8,
           "unitSaving": 0.04,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 50.2,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -6485,7 +6444,7 @@
           "absoluteSaving": 0.4,
           "unitSaving": 0.2,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 30.8,
           "reasons": [
             "LIMITED_HISTORY",
@@ -6767,7 +6726,7 @@
           "advertisedDiscountPercent": 21,
           "absoluteSaving": 0.56,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 31.3,
           "reasons": [
             "LIMITED_HISTORY"
@@ -6858,7 +6817,7 @@
           "absoluteSaving": 8,
           "unitSaving": 8,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 63.2,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -6907,7 +6866,7 @@
           "absoluteSaving": 0.3,
           "unitSaving": 1,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 20.4,
           "reasons": [
             "LIMITED_HISTORY",
@@ -6955,7 +6914,7 @@
           "absoluteSaving": 0.2,
           "unitSaving": 0.4,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 31.8,
           "reasons": [
             "LIMITED_HISTORY",
@@ -7003,7 +6962,7 @@
           "absoluteSaving": 0.4,
           "unitSaving": 0.61,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 29.2,
           "reasons": [
             "LIMITED_HISTORY",
@@ -7057,7 +7016,7 @@
           "absoluteSaving": 0.6,
           "unitSaving": 2.4,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 36,
           "reasons": [
             "LIMITED_HISTORY",
@@ -7105,7 +7064,7 @@
           "absoluteSaving": 4,
           "unitSaving": 13.34,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 66,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -7162,7 +7121,7 @@
           "absoluteSaving": 6,
           "unitSaving": 6,
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 17.99,
           "historicalMedian": 17.99,
           "historicalHigh": 17.99,
@@ -7221,7 +7180,7 @@
           "absoluteSaving": 0.5,
           "unitSaving": 2.5,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
+          "historicalObservations": 1,
           "dealScore": 56.4,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -7276,7 +7235,7 @@
           "absoluteSaving": 4,
           "unitSaving": 4,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 51.8,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -7325,7 +7284,7 @@
           "absoluteSaving": 0.46,
           "unitSaving": 1.15,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 20.8,
           "reasons": [
             "LIMITED_HISTORY",
@@ -7373,7 +7332,7 @@
           "absoluteSaving": 1.2,
           "unitSaving": 1.2,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 54.7,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -7524,7 +7483,7 @@
           "absoluteSaving": 1.8,
           "unitSaving": 1.8,
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 10.19,
           "historicalMedian": 10.19,
           "historicalHigh": 10.19,
@@ -7580,7 +7539,7 @@
           "absoluteSaving": 0.6,
           "unitSaving": 1.71,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 34.6,
           "reasons": [
             "LIMITED_HISTORY",
@@ -7631,7 +7590,7 @@
           "absoluteSaving": 1.3,
           "unitSaving": 4.19,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 59.9,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -7672,7 +7631,7 @@
           "absoluteSaving": 3.66,
           "unitSaving": 3.66,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 36.7,
           "reasons": [
             "LIMITED_HISTORY",
@@ -7708,7 +7667,7 @@
         "canonicalProductId": "milk",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 2,
           "reasons": [
             "LIMITED_HISTORY",
@@ -7843,7 +7802,7 @@
           "absoluteSaving": 2.5,
           "unitSaving": 16.66,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 67.2,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -7899,7 +7858,7 @@
           "absoluteSaving": 0.6,
           "unitSaving": 0.66,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 37.3,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -7947,7 +7906,7 @@
           "absoluteSaving": 3.5,
           "unitSaving": 4.66,
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 5.99,
           "historicalMedian": 5.99,
           "historicalHigh": 5.99,
@@ -8004,7 +7963,7 @@
           "absoluteSaving": 0.3,
           "unitSaving": 0.3,
           "historicalStatus": "NORMAL",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 1.79,
           "historicalMedian": 1.79,
           "historicalHigh": 2.49,
@@ -8052,7 +8011,7 @@
           "absoluteSaving": 0.8,
           "unitSaving": 1.77,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 47.1,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -8107,7 +8066,7 @@
           "absoluteSaving": 0.37,
           "unitSaving": 0.24,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 51.3,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -8150,7 +8109,7 @@
         "displayNameSource": "AUTO",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 0.33,
           "historicalMedian": 0.33,
           "historicalHigh": 0.33,
@@ -8250,7 +8209,7 @@
           "absoluteSaving": 2,
           "unitSaving": 3.34,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 41.9,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -8299,7 +8258,7 @@
           "absoluteSaving": 0.3,
           "unitSaving": 2.17,
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 1.99,
           "historicalMedian": 1.99,
           "historicalHigh": 1.99,
@@ -8351,7 +8310,7 @@
           "absoluteSaving": 0.8,
           "unitSaving": 2.66,
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 1.99,
           "historicalMedian": 3.15,
           "historicalHigh": 3.15,
@@ -8404,7 +8363,7 @@
           "absoluteSaving": 0.3,
           "unitSaving": 0.8,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 25.4,
           "reasons": [
             "LIMITED_HISTORY",
@@ -8452,7 +8411,7 @@
           "absoluteSaving": 1.5,
           "unitSaving": 1.5,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 55.5,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -8501,7 +8460,7 @@
           "absoluteSaving": 5.7,
           "unitSaving": 0.19,
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 0.44,
           "historicalMedian": 0.44,
           "historicalHigh": 0.44,
@@ -8554,7 +8513,7 @@
           "absoluteSaving": 4.5,
           "unitSaving": 4.5,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 52.4,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -8651,7 +8610,7 @@
           "absoluteSaving": 0.36,
           "unitSaving": 0.72,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 39.8,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -8742,7 +8701,7 @@
           "absoluteSaving": 1.2,
           "unitSaving": 1.2,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 54.7,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -8787,7 +8746,7 @@
           "absoluteSaving": 1.2,
           "unitSaving": 1.2,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 54.7,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -8835,7 +8794,7 @@
           "absoluteSaving": 0.3,
           "unitSaving": 1.82,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 33.7,
           "reasons": [
             "LIMITED_HISTORY",
@@ -8883,7 +8842,7 @@
           "absoluteSaving": 0.8,
           "unitSaving": 4,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 38.3,
           "reasons": [
             "LIMITED_HISTORY",
@@ -8927,7 +8886,7 @@
         "displayNameSource": "UNTRANSLATED",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 2,
           "reasons": [
             "LIMITED_HISTORY",
@@ -8975,7 +8934,7 @@
           "absoluteSaving": 2.6,
           "unitSaving": 4,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 37.2,
           "reasons": [
             "LIMITED_HISTORY",
@@ -9026,7 +8985,7 @@
           "advertisedDiscountPercent": 50,
           "absoluteSaving": 3.2,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
+          "historicalObservations": 1,
           "dealScore": 58.6,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -9120,7 +9079,7 @@
           "absoluteSaving": 0.3,
           "unitSaving": 0.3,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 48.2,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -9222,7 +9181,7 @@
           "absoluteSaving": 0.66,
           "unitSaving": 3.3,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
+          "historicalObservations": 1,
           "dealScore": 54.3,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -9271,7 +9230,7 @@
           "absoluteSaving": 7,
           "unitSaving": 7,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 62.5,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -9320,7 +9279,7 @@
           "absoluteSaving": 13,
           "unitSaving": 13,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 65.8,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -9369,7 +9328,7 @@
           "absoluteSaving": 0.3,
           "unitSaving": 3.34,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 36.3,
           "reasons": [
             "LIMITED_HISTORY",
@@ -9418,7 +9377,7 @@
           "absoluteSaving": 0.24,
           "unitSaving": 2.82,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 42.3,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -9474,7 +9433,7 @@
           "absoluteSaving": 1.5,
           "unitSaving": 2.14,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 45.6,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -9523,7 +9482,7 @@
           "absoluteSaving": 2.94,
           "unitSaving": 0.18,
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 0.43,
           "historicalMedian": 0.43,
           "historicalHigh": 0.43,
@@ -9694,7 +9653,7 @@
           "advertisedDiscountPercent": 40,
           "absoluteSaving": 10,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 64.4,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -9749,7 +9708,7 @@
           "absoluteSaving": 1.1,
           "unitSaving": 4.59,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 51.3,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -9798,7 +9757,7 @@
           "absoluteSaving": 1,
           "unitSaving": 1,
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 9.99,
           "historicalMedian": 9.99,
           "historicalHigh": 9.99,
@@ -9844,7 +9803,7 @@
         "displayNameSource": "UNTRANSLATED",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 2,
           "reasons": [
             "LIMITED_HISTORY",
@@ -9892,7 +9851,7 @@
           "absoluteSaving": 0.3,
           "unitSaving": 0.3,
           "historicalStatus": "NORMAL",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 2.11,
           "historicalMedian": 2.11,
           "historicalHigh": 2.69,
@@ -9948,7 +9907,7 @@
           "absoluteSaving": 0.7,
           "unitSaving": 1.97,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 46.4,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -9967,7 +9926,7 @@
     "aliases": [],
     "offers": [
       {
-        "externalId": "2026aciu_36-48-5",
+        "externalId": "2026aciu_36-50-5",
         "name": "rieb., 400 g 1 kg – 7,98 €",
         "salePrice": 3.19,
         "regularPrice": 3.99,
@@ -9976,11 +9935,11 @@
         "unit": "g",
         "pricePerUnit": 7.97,
         "pricePerUnitType": "kg",
-        "sourceUrl": "https://viewer.ipaper.io/maxima/kk-savaite/2026aciu_36?Page=48",
+        "sourceUrl": "https://viewer.ipaper.io/maxima/kk-savaite/2026aciu_36?Page=50",
         "promotionType": "SALE",
         "sourceType": "leaflet",
         "publicationId": "2026aciu_36",
-        "page": 48,
+        "page": 50,
         "confidence": "HIGH",
         "sourcePlatform": "maxima",
         "channel": "physical",
@@ -9993,7 +9952,7 @@
           "absoluteSaving": 0.8,
           "unitSaving": 2,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 0,
           "dealScore": 34.1,
           "reasons": [
             "LIMITED_HISTORY",
@@ -10090,7 +10049,7 @@
           "absoluteSaving": 2,
           "unitSaving": 10,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 46.4,
           "reasons": [
             "LIMITED_HISTORY",
@@ -10195,7 +10154,7 @@
           "absoluteSaving": 1,
           "unitSaving": 1,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 46.3,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -10249,7 +10208,7 @@
           "absoluteSaving": 1.3,
           "unitSaving": 2.6,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 50.9,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -10298,7 +10257,7 @@
           "absoluteSaving": 2,
           "unitSaving": 0.23,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 43.4,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -10347,7 +10306,7 @@
           "absoluteSaving": 4.3,
           "unitSaving": 4.3,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 37.5,
           "reasons": [
             "LIMITED_HISTORY",
@@ -10396,7 +10355,7 @@
           "absoluteSaving": 2.76,
           "unitSaving": 2.76,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 37.7,
           "reasons": [
             "LIMITED_HISTORY",
@@ -10495,7 +10454,7 @@
           "absoluteSaving": 4,
           "unitSaving": 47.96,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
+          "historicalObservations": 1,
           "dealScore": 65.5,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -10596,7 +10555,7 @@
           "absoluteSaving": 0.3,
           "unitSaving": 0.37,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 21.5,
           "reasons": [
             "LIMITED_HISTORY",
@@ -10688,7 +10647,7 @@
           "absoluteSaving": 2,
           "unitSaving": 2,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 35.2,
           "reasons": [
             "LIMITED_HISTORY",
@@ -10788,7 +10747,7 @@
           "absoluteSaving": 0.3,
           "unitSaving": 0.6,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 19.1,
           "reasons": [
             "LIMITED_HISTORY",
@@ -10836,7 +10795,7 @@
           "absoluteSaving": 0.3,
           "unitSaving": 0.67,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 20.5,
           "reasons": [
             "LIMITED_HISTORY",
@@ -10891,7 +10850,7 @@
           "absoluteSaving": 0.4,
           "unitSaving": 0.89,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 41.4,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -10946,7 +10905,7 @@
           "absoluteSaving": 0.4,
           "unitSaving": 0.4,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 41.9,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -11046,7 +11005,7 @@
           "absoluteSaving": 9,
           "unitSaving": 9,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 63.8,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -11090,7 +11049,7 @@
           "advertisedDiscountPercent": 40,
           "absoluteSaving": 12,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 65.4,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -11139,7 +11098,7 @@
           "absoluteSaving": 0.9,
           "unitSaving": 4.09,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 26,
           "reasons": [
             "LIMITED_HISTORY",
@@ -11188,7 +11147,7 @@
           "absoluteSaving": 0.5,
           "unitSaving": 1.66,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 26.6,
           "reasons": [
             "LIMITED_HISTORY",
@@ -11231,7 +11190,7 @@
         "displayNameSource": "UNTRANSLATED",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 2,
           "reasons": [
             "LIMITED_HISTORY",
@@ -11274,7 +11233,7 @@
         "displayNameSource": "UNTRANSLATED",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 2,
           "reasons": [
             "LIMITED_HISTORY",
@@ -11366,7 +11325,7 @@
           "absoluteSaving": 1,
           "unitSaving": 1,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 46.3,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -11507,7 +11466,7 @@
           "absoluteSaving": 1.9,
           "unitSaving": 0.5,
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 0.79,
           "historicalMedian": 0.79,
           "historicalHigh": 0.79,
@@ -11618,12 +11577,16 @@
           "advertisedDiscountPercent": 42,
           "absoluteSaving": 5,
           "unitSaving": 0.05,
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 2,
-          "dealScore": 50.3,
+          "historicalStatus": "LOWEST_OBSERVED",
+          "historicalObservations": 4,
+          "historicalLow": 0.07,
+          "historicalMedian": 0.15000000000000002,
+          "historicalHigh": 0.23,
+          "percentBelowHistoricalMedian": 53.3,
+          "dealScore": 80.3,
           "reasons": [
             "HIGH_DISCOUNT",
-            "LIMITED_HISTORY"
+            "LOWEST_OBSERVED_PRICE"
           ],
           "comparisonReasons": []
         }
@@ -11664,12 +11627,15 @@
           "advertisedDiscountPercent": 57,
           "absoluteSaving": 30,
           "unitSaving": 0.3,
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 2,
+          "historicalStatus": "NORMAL",
+          "historicalObservations": 4,
+          "historicalLow": 0.07,
+          "historicalMedian": 0.15000000000000002,
+          "historicalHigh": 0.23,
+          "percentBelowHistoricalMedian": 0,
           "dealScore": 51.6,
           "reasons": [
-            "HIGH_DISCOUNT",
-            "LIMITED_HISTORY"
+            "HIGH_DISCOUNT"
           ],
           "comparisonReasons": []
         }
@@ -11720,7 +11686,7 @@
           "absoluteSaving": 2.04,
           "unitSaving": 10.2,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 53.2,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -11776,7 +11742,7 @@
           "absoluteSaving": 14,
           "unitSaving": 3.11,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 58.5,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -11825,7 +11791,7 @@
           "absoluteSaving": 0.7,
           "unitSaving": 1.55,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 23,
           "reasons": [
             "LIMITED_HISTORY",
@@ -12095,7 +12061,7 @@
           "absoluteSaving": 0.25,
           "unitSaving": 0.98,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 21.5,
           "reasons": [
             "LIMITED_HISTORY",
@@ -12340,7 +12306,7 @@
           "absoluteSaving": 6,
           "unitSaving": 6,
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 5,
+          "historicalObservations": 6,
           "historicalLow": 17.99,
           "historicalMedian": 17.99,
           "historicalHigh": 17.99,
@@ -12364,7 +12330,7 @@
     "aliases": [],
     "offers": [
       {
-        "externalId": "2026aciu_36-48-4",
+        "externalId": "2026aciu_36-50-4",
         "name": "Šviežia viščiukų broilerių filė kepsniams be antibiotikų WELL DONE 400 g 1 kg – 8,73 €",
         "salePrice": 3.49,
         "regularPrice": 4.99,
@@ -12373,11 +12339,11 @@
         "unit": "g",
         "pricePerUnit": 8.72,
         "pricePerUnitType": "kg",
-        "sourceUrl": "https://viewer.ipaper.io/maxima/kk-savaite/2026aciu_36?Page=48",
+        "sourceUrl": "https://viewer.ipaper.io/maxima/kk-savaite/2026aciu_36?Page=50",
         "promotionType": "SALE",
         "sourceType": "leaflet",
         "publicationId": "2026aciu_36",
-        "page": 48,
+        "page": 50,
         "confidence": "HIGH",
         "sourcePlatform": "maxima",
         "channel": "physical",
@@ -12390,7 +12356,7 @@
           "absoluteSaving": 1.5,
           "unitSaving": 3.75,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 0,
           "dealScore": 48.1,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -12496,7 +12462,7 @@
           "absoluteSaving": 0.5,
           "unitSaving": 2,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 36.3,
           "reasons": [
             "LIMITED_HISTORY",
@@ -12550,7 +12516,7 @@
           "absoluteSaving": 0.4,
           "unitSaving": 1.25,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 34.6,
           "reasons": [
             "LIMITED_HISTORY"
@@ -12592,7 +12558,7 @@
           "advertisedDiscountPercent": 52,
           "absoluteSaving": 9,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 63.8,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -12641,7 +12607,7 @@
           "absoluteSaving": 2,
           "unitSaving": 2,
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 10.99,
           "historicalMedian": 10.99,
           "historicalHigh": 10.99,
@@ -12693,7 +12659,7 @@
           "absoluteSaving": 4,
           "unitSaving": 11.11,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 65,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -12738,7 +12704,7 @@
         "displayNameSource": "UNTRANSLATED",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 1.4,
           "historicalMedian": 1.4,
           "historicalHigh": 1.4,
@@ -12793,7 +12759,7 @@
           "absoluteSaving": 2.8,
           "unitSaving": 0.18,
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 0.17,
           "historicalMedian": 0.17,
           "historicalHigh": 0.17,
@@ -12838,7 +12804,7 @@
           "absoluteSaving": 3.7,
           "unitSaving": 3.7,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 59.3,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -12887,7 +12853,7 @@
           "absoluteSaving": 5,
           "unitSaving": 5,
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 14.99,
           "historicalMedian": 14.99,
           "historicalHigh": 14.99,
@@ -12940,7 +12906,7 @@
           "absoluteSaving": 2,
           "unitSaving": 2,
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 12.99,
           "historicalMedian": 12.99,
           "historicalHigh": 12.99,
@@ -12989,7 +12955,7 @@
           "absoluteSaving": 0.74,
           "unitSaving": 1.99,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 47.6,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -13036,7 +13002,7 @@
           "absoluteSaving": 0.64,
           "unitSaving": 1.73,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 34.7,
           "reasons": [
             "LIMITED_HISTORY",
@@ -13125,7 +13091,7 @@
           "absoluteSaving": 0.2,
           "unitSaving": 1.11,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 21.9,
           "reasons": [
             "LIMITED_HISTORY",
@@ -13173,7 +13139,7 @@
           "absoluteSaving": 0.2,
           "unitSaving": 1.38,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 24.8,
           "reasons": [
             "LIMITED_HISTORY",
@@ -13318,7 +13284,7 @@
         "displayNameSource": "UNTRANSLATED",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 2,
           "reasons": [
             "LIMITED_HISTORY",
@@ -13366,7 +13332,7 @@
           "absoluteSaving": 0.2,
           "unitSaving": 0.2,
           "historicalStatus": "NORMAL",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 1.29,
           "historicalMedian": 1.29,
           "historicalHigh": 1.39,
@@ -13415,7 +13381,7 @@
           "absoluteSaving": 2,
           "unitSaving": 4.93,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 47.2,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -13465,7 +13431,7 @@
           "absoluteSaving": 4,
           "unitSaving": 4,
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 9.99,
           "historicalMedian": 9.99,
           "historicalHigh": 9.99,
@@ -13568,7 +13534,7 @@
           "absoluteSaving": 0.22,
           "unitSaving": 2.2,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 34.5,
           "reasons": [
             "LIMITED_HISTORY",
@@ -13622,12 +13588,16 @@
           "advertisedDiscountPercent": 49,
           "absoluteSaving": 0.32,
           "unitSaving": 7.11,
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 2,
-          "dealScore": 62.6,
+          "historicalStatus": "LOWEST_OBSERVED",
+          "historicalObservations": 4,
+          "historicalLow": 7.33,
+          "historicalMedian": 38.665,
+          "historicalHigh": 70,
+          "percentBelowHistoricalMedian": 81,
+          "dealScore": 92.6,
           "reasons": [
             "HIGH_DISCOUNT",
-            "LIMITED_HISTORY",
+            "LOWEST_OBSERVED_PRICE",
             "STRONG_UNIT_PRICE"
           ],
           "comparisonReasons": []
@@ -13669,12 +13639,15 @@
           "advertisedDiscountPercent": 47,
           "absoluteSaving": 2.74,
           "unitSaving": 60.89,
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 2,
+          "historicalStatus": "NORMAL",
+          "historicalObservations": 4,
+          "historicalLow": 7.33,
+          "historicalMedian": 38.665,
+          "historicalHigh": 70,
+          "percentBelowHistoricalMedian": 0,
           "dealScore": 70,
           "reasons": [
             "HIGH_DISCOUNT",
-            "LIMITED_HISTORY",
             "STRONG_UNIT_PRICE"
           ],
           "comparisonReasons": []
@@ -13719,7 +13692,7 @@
           "absoluteSaving": 2.8,
           "unitSaving": 2.8,
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 11.19,
           "historicalMedian": 11.19,
           "historicalHigh": 11.19,
@@ -13766,7 +13739,7 @@
           "advertisedDiscountPercent": 42,
           "absoluteSaving": 6,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 61.7,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -13992,7 +13965,7 @@
         "displayNameSource": "UNTRANSLATED",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 2,
           "reasons": [
             "LIMITED_HISTORY",
@@ -14087,7 +14060,7 @@
         "displayNameSource": "UNTRANSLATED",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 2,
           "reasons": [
             "LIMITED_HISTORY",
@@ -14135,7 +14108,7 @@
           "absoluteSaving": 3.3,
           "unitSaving": 3.3,
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 6.99,
           "historicalMedian": 6.99,
           "historicalHigh": 6.99,
@@ -14188,7 +14161,7 @@
           "absoluteSaving": 0.5,
           "unitSaving": 1.43,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 23.8,
           "reasons": [
             "LIMITED_HISTORY",
@@ -14236,7 +14209,7 @@
           "absoluteSaving": 4,
           "unitSaving": 1,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 54.2,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -14280,7 +14253,7 @@
           "advertisedDiscountPercent": 30,
           "absoluteSaving": 1.3,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 43.7,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -14324,7 +14297,7 @@
           "advertisedDiscountPercent": 38,
           "absoluteSaving": 3.5,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 56.8,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -14379,7 +14352,7 @@
           "absoluteSaving": 0.7,
           "unitSaving": 1.4,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 49.6,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -14427,7 +14400,7 @@
           "absoluteSaving": 0.5,
           "unitSaving": 0.5,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 20.9,
           "reasons": [
             "LIMITED_HISTORY"
@@ -14481,7 +14454,7 @@
           "absoluteSaving": 3.2,
           "unitSaving": 16,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 67,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -14530,7 +14503,7 @@
           "absoluteSaving": 0.4,
           "unitSaving": 0.27,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 51.4,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -14626,7 +14599,7 @@
         "displayNameSource": "UNTRANSLATED",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 2,
           "reasons": [
             "LIMITED_HISTORY",
@@ -14678,7 +14651,7 @@
           "absoluteSaving": 0.4,
           "unitSaving": 0.4,
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 0.59,
           "historicalMedian": 0.79,
           "historicalHigh": 0.79,
@@ -14730,7 +14703,7 @@
           "absoluteSaving": 0.4,
           "unitSaving": 0.4,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 52,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -14770,7 +14743,7 @@
           "absoluteSaving": 0.3,
           "unitSaving": 0.3,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 29.1,
           "reasons": [
             "LIMITED_HISTORY",
@@ -14818,7 +14791,7 @@
           "absoluteSaving": 0.3,
           "unitSaving": 0.85,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 22.2,
           "reasons": [
             "LIMITED_HISTORY",
@@ -14866,7 +14839,7 @@
           "absoluteSaving": 0.5,
           "unitSaving": 5,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 32.6,
           "reasons": [
             "LIMITED_HISTORY",
@@ -14915,7 +14888,7 @@
           "absoluteSaving": 0.74,
           "unitSaving": 0.74,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 44.3,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -14971,7 +14944,7 @@
           "absoluteSaving": 1,
           "unitSaving": 2.94,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 58.2,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -15015,7 +14988,7 @@
         "displayNameSource": "AUTO",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 4.06,
           "historicalMedian": 4.06,
           "historicalHigh": 4.06,
@@ -15077,7 +15050,7 @@
           "absoluteSaving": 0.5,
           "unitSaving": 0.5,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 52.4,
           "reasons": [
             "HIGH_DISCOUNT",
@@ -15132,7 +15105,7 @@
           "absoluteSaving": 1,
           "unitSaving": 1,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 40.7,
           "reasons": [
             "GOOD_DISCOUNT",
@@ -15180,7 +15153,7 @@
           "absoluteSaving": 0.8,
           "unitSaving": 2.51,
           "historicalStatus": "NORMAL",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 1.99,
           "historicalMedian": 1.99,
           "historicalHigh": 3.19,
@@ -15231,7 +15204,7 @@
           "absoluteSaving": 0.3,
           "unitSaving": 0.2,
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 0.3,
           "historicalMedian": 0.3,
           "historicalHigh": 0.3,
@@ -15328,7 +15301,7 @@
           "absoluteSaving": 0.2,
           "unitSaving": 0.01,
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 16.3,
           "reasons": [
             "LIMITED_HISTORY",
