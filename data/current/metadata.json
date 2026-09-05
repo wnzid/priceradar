@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-09-05T10:40:15.023Z",
+  "generatedAt": "2026-09-05T19:06:18.226Z",
   "stores": {
     "rimi": {
       "status": "success",
-      "offers": 178
+      "offers": 177
     },
     "maxima": {
       "status": "success",
       "offers": 123
     }
   },
-  "totalOffers": 301,
-  "normalizedProducts": 281,
+  "totalOffers": 300,
+  "normalizedProducts": 280,
   "translation": {
-    "totalOffers": 301,
+    "totalOffers": 300,
     "canonical": 32,
     "automatic": 38,
-    "untranslated": 231,
+    "untranslated": 230,
     "englishCoveragePercent": 23.3
   },
   "exclusions": {
